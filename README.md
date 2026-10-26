@@ -23,13 +23,13 @@ catalogues. A region-parametric engine runs the same pipeline in real time.
 ## Repository layout
 
 ```
-notebooks/      The offline workflow (modules M1–M6), one notebook per stage
+notebooks/      The offline workflow (modules M1–M5), one notebook per stage
   M1_parse_bulletins.ipynb      Parse Nordic (SEISAN) S-files → events + picks
   M2_manual_pick_table.ipynb    Export the flat ground-truth manual-pick table
   M3_preprocess_waveforms.ipynb Merge, detrend, 1–45 Hz band-pass, resample 100 Hz
-  M4_multimodel_picking.ipynb   Run 64 SeisBench architecture–checkpoint configs
+  M4_multimodel_picking.ipynb   Run SeisBench pickers (64 configs; 1 in demo mode)
   M5_pick_evaluation.ipynb      Precision / recall / F1 / MAE vs. manual picks (τ=1 s)
-  M6_data_quality.ipynb         Data-quality and coverage diagnostics
+  notebooks/README.md           Run order, configuration and verification notes
 live/           Region-parametric real-time engine (M7–M9 in production)
   src/quakemlab_core/           acquisition → picking → association → location →
                                 magnitude → catalogue → notification
@@ -51,7 +51,7 @@ docs/           User manual and tutorial
 | M3 Waveform pre-processing | `notebooks/M3_preprocess_waveforms.ipynb` | `.npy` traces + index |
 | M4 Multi-model picking | `notebooks/M4_multimodel_picking.ipynb` | one pick table per config |
 | M5 Pick evaluation | `notebooks/M5_pick_evaluation.ipynb` | P/R/F1/MAE tables, figures |
-| M6 Pick-set selection | `live/src/quakemlab_core/engine.py` (`pickset_*`) | four pick sets |
+| M6 Pick-set selection | `live/src/quakemlab_core/engine.py` | four pick sets |
 | M7 Association · location · ML | `live/src/quakemlab_core/engine.py`, `live/services/api/pyocto_api.py` | PyOcto + HypoInverse 1.40 + Wood–Anderson ML |
 | M8 Catalogue verification | `live/services/api/pyocto_api.py` | nearest reference solution + offset |
 | M9 Dissemination | `live/services/viewer/app.py` (Streamlit); public portal (ASP.NET) | maps, tables, portal |
@@ -60,14 +60,17 @@ docs/           User manual and tutorial
 
 ```bash
 python -m venv .venv && source .venv/bin/activate   # or conda
-pip install obspy seisbench torch pandas numpy scipy matplotlib pyocto jupyterlab
-jupyter lab            # then run notebooks M1 → M6 in order
+pip install obspy seisbench torch pandas numpy scipy matplotlib openpyxl pyocto jupyterlab
+jupyter lab            # then run notebooks M1 → M5 in order
 ```
 
-The notebooks read event waveforms from an `events/` directory (one folder per
-event, named `{EventID}_{YYYYMMDD}_{HHMMSS}_{MagType}_{Mag}`, times in **UTC**)
-and the AFAD Nordic bulletin. A small ready-to-run example lives in
-`data/sample/`; see [docs/USER_MANUAL.md](docs/USER_MANUAL.md).
+**Out of the box the notebooks run on the bundled 5-event sample** in
+`data/sample/` — the first cell of each resolves the path automatically, and M4
+runs a single lightweight model (`DEMO_MODE = True`). The full chain M1→M5 was
+executed on the sample; see [`notebooks/README.md`](notebooks/README.md). To run
+your own study, point `SFILE_PATH`/`EVENTS_DIR` at your archive (one folder per
+event, `{EventID}_{YYYYMMDD}_{HHMMSS}_{MagType}_{Mag}`, times in **UTC**) and set
+`DEMO_MODE = False`. See [docs/USER_MANUAL.md](docs/USER_MANUAL.md).
 
 ## Quick start (real-time engine)
 
