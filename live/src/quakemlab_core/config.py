@@ -35,7 +35,7 @@ X_ACCESS_TOKEN = os.environ.get("X_ACCESS_TOKEN")
 X_ACCESS_TOKEN_SECRET = os.environ.get("X_ACCESS_TOKEN_SECRET")
 X_TWEET_LINK = os.environ.get("X_TWEET_LINK", "0") == "1"
 WEB_APP_URL = os.environ.get("WEB_APP_URL", "http://localhost:8501")
-GCS_BUCKET_NAME = os.environ.get("GCS_BUCKET_NAME", "afad-sismik-veri-1")
+GCS_BUCKET_NAME = os.environ.get("GCS_BUCKET_NAME", "your-bucket")
 PYOCTO_API_URL = os.environ.get(
     "PYOCTO_API_URL", "https://sismik-api-600261694418.europe-west3.run.app")
 

@@ -37,7 +37,7 @@ app = FastAPI(title="PyOcto + HypoInverse Cataloging API")
 # C# ana sayfası (quakemlab.sakarya.edu.tr) tarayıcıdan /live_events çekebilsin diye CORS açık.
 app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["GET", "POST"], allow_headers=["*"])
 
-GCS_BUCKET_NAME = os.environ.get("GCS_BUCKET_NAME", "afad-sismik-veri-1")
+GCS_BUCKET_NAME = os.environ.get("GCS_BUCKET_NAME", "your-bucket")
 
 
 def _prefixes_for(bolge: str = "ege"):

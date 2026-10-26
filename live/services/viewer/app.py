@@ -29,7 +29,7 @@ def T(tr_str, en_str):
     return en_str if is_en else tr_str
 
 # --- GCS Ayarları ---
-GCS_BUCKET_NAME = "afad-sismik-veri-1"
+GCS_BUCKET_NAME = os.environ.get("GCS_BUCKET_NAME", "your-bucket")
 MSEED_ROOT_DIR = "Sismolojik_Veri"  
 MODEL_RESULTS_CSV = f"gs://{GCS_BUCKET_NAME}/TUM_SONUCLAR_BIRLESIK_CLEAN.csv"
 MANUAL_PICKS_FILE = f"gs://{GCS_BUCKET_NAME}/manual_picks.xlsx"
