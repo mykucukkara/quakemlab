@@ -1,0 +1,1062 @@
+ 2025 1027 1948 29.0 L  39.197  28.201  6.1  AFD 94 0.4 6.1WAFD                1
+ GAP= 39                                0.9                                    E
+ SPEC PURSHH Z MO16.73 ST38.01 OM 5.91 f0  1.3 R  1.84 AL      WI  4.6 MW  5.1 3
+ SPEC PURSHH Z T164828 K 0.040 GD 8.91 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC DEMIHH Z MO17.26 ST36.29 OM 5.73 f0    1 R  2.79 AL      WI  7.8 MW  5.4 3
+ SPEC DEMIHH Z T164835 K 0.040 GD45.25 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC AKHSHH Z MO18.13 ST11.17 OM 6.57 f0      R  8.10 AL      WI  9.2 MW  6.0 3
+ SPEC AKHSHH Z T164836 K 0.040 GD49.02 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC STEPHH Z MO17.51 ST13.25 OM 5.94 f0      R  4.76 AL      WI  8.6 MW  5.6 3
+ SPEC STEPHH Z T164836 K 0.040 GD49.50 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC DURSHH Z MO18.25 ST 2.95 OM 6.66 f0      R 13.79 AL      WI  9.4 MW  6.1 3
+ SPEC DURSHH Z T164836 K 0.040 GD52.08 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KTT HH Z MO17.94 ST 1.36 OM 6.32 f0      R 14.10 AL      WI 11.0 MW  5.9 3
+ SPEC KTT HH Z T164837 K 0.040 GD55.56 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BKESHH Z MO17.50 ST 3.03 OM 5.80 f0      R  7.73 AL      WI 11.0 MW  5.6 3
+ SPEC BKESHH Z T164838 K 0.040 GD67.11 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC SIMVHH Z MO17.25 ST10.19 OM 5.53 f0    1 R  4.23 AL      WI 11.0 MW  5.4 3
+ SPEC SIMVHH Z T164840 K 0.040 GD69.44 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BLKSHH Z MO17.63 ST 0.67 OM 5.85 f0      R 14.10 AL      WI 11.6 MW  5.7 3
+ SPEC BLKSHH Z T164843 K 0.040 GD80.65 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC MANTHH Z MO17.45 ST 2.68 OM 5.67 f0      R  7.73 AL      WI 11.5 MW  5.6 3
+ SPEC MANTHH Z T164842 K 0.040 GD81.30 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BALYHH Z MO18.38 ST 0.62 OM 6.59 f0      R 25.74 AL      WI 13.2 MW  6.2 3
+ SPEC BALYHH Z T164841 K 0.040 GD81.97 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC USAKHH Z MO18.18 ST 0.39 OM 6.37 f0      R 25.74 AL      WI 13.0 MW  6.1 3
+ SPEC USAKHH Z T164842 K 0.040 GD85.47 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC CAM HH Z MO18.63 ST 6.71 OM 6.79 f0      R 14.10 AL      WI 14.6 MW  6.4 3
+ SPEC CAM HH Z T164844 K 0.040 GD92.59 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC CMH HH Z MO17.97 ST 1.47 OM 6.12 f0      R 14.10 AL      WI 13.5 MW  5.9 3
+ SPEC CMH HH Z T164843 K 0.040 GD95.24 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC EMETHH Z MO17.85 ST 6.78 OM 5.99 f0      R  7.73 AL      WI 14.4 MW  5.8 3
+ SPEC EMETHH Z T164844 K 0.040 GD97.09 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC ZEDAHH Z MO18.57 ST 0.96 OM 6.69 f0      R 25.74 AL      WI 14.8 MW  6.3 3
+ SPEC ZEDAHH Z T164845 K 0.040 GD102.0 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC HAR HH Z MO17.68 ST 4.51 OM 5.78 f0      R  7.73 AL      WI 13.5 MW  5.7 3
+ SPEC HAR HH Z T164846 K 0.040 GD105.3 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BUHAHH Z MO18.01 ST 9.76 OM 6.11 f0      R  7.73 AL      WI 14.6 MW  5.9 3
+ SPEC BUHAHH Z T164845 K 0.040 GD105.3 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC GDZ HH Z MO17.03 ST37.56 OM 5.12 f0  1.0 R  2.32 AL      WI 14.6 MW  5.3 3
+ SPEC GDZ HH Z T164847 K 0.040 GD108.7 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KIRAHH Z MO17.66 ST 4.38 OM 5.75 f0      R  7.73 AL      WI 14.8 MW  5.7 3
+ SPEC KIRAHH Z T164847 K 0.040 GD109.9 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC ERE HH Z MO18.61 ST 6.39 OM 6.69 f0      R 14.10 AL      WI 16.5 MW  6.3 3
+ SPEC ERE HH Z T164846 K 0.040 GD112.4 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC IZMDHH Z MO17.94 ST 8.25 OM 6.01 f0      R  7.73 AL      WI 15.9 MW  5.9 3
+ SPEC IZMDHH Z T164847 K 0.040 GD114.9 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC IZMRHH Z MO18.09 ST11.67 OM 6.14 f0      R  7.73 AL      WI 18.4 MW  6.0 3
+ SPEC IZMRHH Z T164847 K 0.040 GD117.6 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC DKRZHH Z MO17.31 ST71.72 OM 5.36 f0  1.0 R  2.32 AL      WI 16.5 MW  5.5 3
+ SPEC DKRZHH Z T164848 K 0.040 GD117.6 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC NEV HH Z MO17.67 ST26.79 OM 5.71 f0    1 R  4.23 AL      WI 15.8 MW  5.7 3
+ SPEC NEV HH Z T164848 K 0.040 GD120.5 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC DKIZHH Z MO18.60 ST 6.15 OM 6.64 f0      R 14.10 AL      WI 16.5 MW  6.3 3
+ SPEC DKIZHH Z T164848 K 0.040 GD120.5 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC DDKLHH Z MO17.71 ST29.63 OM 5.75 f0    1 R  4.23 AL      WI 16.8 MW  5.7 3
+ SPEC DDKLHH Z T164848 K 0.040 GD122.0 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC DEUNHH Z MO18.60 ST 6.16 OM 6.62 f0      R 14.10 AL      WI 18.5 MW  6.3 3
+ SPEC DEUNHH Z T164848 K 0.040 GD125.0 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC DUV HH Z MO17.94 ST302.5 OM 5.96 f0  1.0 R  2.32 AL      WI 18.5 MW  5.9 3
+ SPEC DUV HH Z T164849 K 0.040 GD126.6 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BANDHH Z MO18.49 ST 4.85 OM 6.50 f0      R 14.10 AL      WI 19.9 MW  6.3 3
+ SPEC BANDHH Z T164849 K 0.040 GD131.6 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BAG HH Z MO18.49 ST 4.87 OM 6.50 f0      R 14.10 AL      WI 18.5 MW  6.3 3
+ SPEC BAG HH Z T164849 K 0.040 GD133.3 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC ULDTHH Z MO18.95 ST 2.31 OM 6.96 f0      R 25.74 AL      WI 19.2 MW  6.6 3
+ SPEC ULDTHH Z T164850 K 0.040 GD133.3 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC AYVAHH Z MO17.85 ST40.34 OM 5.84 f0    1 R  4.23 AL      WI 18.6 MW  5.8 3
+ SPEC AYVAHH Z T164850 K 0.040 GD133.3 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC DAGEHH Z MO18.65 ST 6.89 OM 6.64 f0      R 14.10 AL      WI 18.9 MW  6.4 3
+ SPEC DAGEHH Z T164850 K 0.040 GD137.0 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BEYEHH Z MO18.90 ST 0.31 OM 6.83 f0      R 48.04 AL      WI 21.8 MW  6.5 3
+ SPEC BEYEHH Z T164853 K 0.040 GD153.8 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BAYCHH Z MO18.24 ST 0.52 OM 6.17 f0      R 24.56 AL      WI 21.7 MW  6.1 3
+ SPEC BAYCHH Z T164853 K 0.040 GD158.7 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC OZDEHH Z MO18.52 ST 0.98 OM 6.44 f0      R 24.56 AL      WI 23.1 MW  6.3 3
+ SPEC OZDEHH Z T164853 K 0.040 GD161.3 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC MADAHH Z MO17.74 ST 1.20 OM 5.64 f0      R 12.55 AL      WI 22.9 MW  5.8 3
+ SPEC MADAHH Z T164854 K 0.040 GD166.7 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KARBHH Z MO18.34 ST 0.65 OM 6.24 f0      R 24.56 AL      WI 22.2 MW  6.2 3
+ SPEC KARBHH Z T164854 K 0.040 GD166.7 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC LAPSHH Z MO18.02 ST 2.30 OM 5.92 f0      R 12.55 AL      WI 23.9 MW  5.9 3
+ SPEC LAPSHH Z T164854 K 0.040 GD169.5 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC ZEYEHH Z MO18.58 ST 1.12 OM 6.44 f0      R 24.56 AL      WI 25.3 MW  6.3 3
+ SPEC ZEYEHH Z T164856 K 0.040 GD181.8 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KOCAHH Z MO17.77 ST 1.31 OM 5.63 f0      R 12.55 AL      WI 23.8 MW  5.8 3
+ SPEC KOCAHH Z T164856 K 0.040 GD185.2 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC CNKLHH Z MO14.12 ST 0.12 OM 1.97 f0  1.4 R  1.68 AL      WI 23.6 MW  3.3 3
+ SPEC CNKLHH Z T164859 K 0.040 GD185.2 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC TKOYHH Z MO17.87 ST 1.66 OM 5.72 f0      R 12.55 AL      WI 24.4 MW  5.9 3
+ SPEC TKOYHH Z T164855 K 0.040 GD188.7 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC ECEAHH Z MO18.20 ST 3.48 OM 6.02 f0      R 12.55 AL      WI 27.9 MW  6.1 3
+ SPEC ECEAHH Z T164858 K 0.040 GD200.0 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BOZCHH Z MO18.00 ST 2.24 OM 5.83 f0      R 12.55 AL      WI 26.6 MW  5.9 3
+ SPEC BOZCHH Z T164857 K 0.040 GD200.0 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ DEUN HZ IP       1948 50.08                                            0.0   0 
+ SIMV HN IS       1948 50.14                                            0.0   0 
+ SUL  HZ IP       1948 51.99                                            0.0   0 
+ MANT HN IS       1948 52.79                                            0.0   0 
+ DOMA HZ IP       1948 53.14                                            0.0   0 
+ PASA HZ IP       1948 53.79                                            0.0   0 
+ BALY HN IS       1948 53.86                                            0.0   0 
+ BEYE HZ IP       1948 54.04                                            0.0   0 
+ BAYC HZ IP       1948 54.43                                            0.0   0 
+ OZDE HZ IP       1948 54.55                                            0.0   0 
+ AYDN HZ IP       1948 55.84                                            0.0   0 
+ CMH  HN IS       1948 56.09                                            0.0   0 
+ CAM  HE IS       1948 56.86                                            0.0   0 
+ KOCA HZ IP       1948 58.01                                            0.0   0 
+ EMET HN IS       1948 58.11                                            0.0   0 
+ AFYO HZ IP       1948 59.04                                            0.0   0 
+ HAR  HN IS       1948 59.39                                            0.0   0 
+ BIRL HZ IP       1948 59.55                                            0.0   0 
+ ZEDA HN IS       1948 59.60                                            0.0   0 
+ BOZC HZ IP       1948 59.81                                            0.0   0 
+ DCES HZ IP       1949 00.06                                            0.0   0 
+ ECEA HZ IP       1949 00.55                                            0.0   0 
+ KIRA HN IS       1949 01.30                                            0.0   0 
+ IZMD HE IS       1949 02.66                                            0.0   0 
+ NEV  HN IS       1949 03.00                                            0.0   0 
+ IZMR HE IS       1949 03.78                                            0.0   0 
+ SUL  HE IS       1949 08.90                                            0.0   0 
+ DOMA HN IS       1949 12.88                                            0.0   0 
+ LAPS HN IS       1949 17.03                                            0.0   0 
+ KURT HN IS       1949 21.46                                            0.0   0 
+ CNKL HN IS       1949 22.56                                            0.0   0 
+ BOZC HN IS       1949 22.88                                            0.0   0 
+ BILE HE IS       1949 23.38                                            0.0   0 
+ BIRL HE IS       1949 28.25                                            0.0   0 
+ PURS HZ IP       1948 30.15                                            4.4   3 
+ PURS HN IS       1948 32.02                                            4.4   3 
+ STEP HZ IP       1948 37.47                                           46.4 297 
+ STEP HN IS       1948 44.08                                           46.4 297 
+ DEMI HZ IP       1948 37.91                                           47.6 110 
+ DEMI HN IS       1948 43.77                                           47.6 110 
+ AKHS HZ IP       1948 38.02                                           48.2 225 
+ AKHS HN IS       1948 44.18                                           48.2 225 
+ DURS HZ IP       1948 38.25                                           51.2  27 
+ DURS HN IS       1948 45.14                                           51.2  27 
+ KTT  HZ IP       1948 39.29                                           56.6 190 
+ KTT  HN IS       1948 47.27                                           56.6 190 
+ BKES HZ IP       1948 40.73                                           64.5 339 
+ BKES HN IS       1948 48.86                                           64.5 339 
+ SIMV HZ IP       1948 42.16                                           71.8  97 
+ BLKS HZ IP       1948 45.67                                           78.4 346 
+ BLKS HN IS       1948 54.60                                           78.4 346 
+ BALY HZ IP       1948 43.65                                           78.8 321 
+ MANT HZ IP       1948 43.94                                           83.7 158 
+ USAK HZ IP       1948 44.61                                           88.5 126 
+ USAK HN IS       1948 54.60                                           88.5 126 
+ CAM  HZ IP       1948 45.52                                           91.3 238 
+ CMH  HZ IP       1948 45.37                                           93.2 348 
+ EMET HZ IP       1948 46.73                                           98.8  77 
+ ZEDA HZ IP       1948 46.47                                          100.4 256 
+ BUHA HZ IP       1948 47.58                                          102.8 290 
+ BUHA HN IS       1948 59.17                                          102.8 290 
+ HAR  HZ IP       1948 47.80                                          107.8 150 
+ GDZ  HZ IP       1948 48.53                                          111.4  95 
+ GDZ  HN IS       1949 00.66                                          111.4  95 
+ ERE  HZ IP       1948 48.53                                          111.8  31 
+ KIRA HZ IP       1948 48.66                                          111.8 170 
+ ERE  HN IS       1949 02.15                                          111.8  31 
+ IZMD HZ IP       1948 48.87                                          112.5 259 
+ IZMD HN IS       1949 02.47                                          112.5 259 
+ NEV  HZ IP       1948 49.79                                          116.9 317 
+ DDKL HZ IP       1948 50.40                                          119.0 272 
+ DDKL HN IS       1949 04.81                                          119.0 272 
+ IZMR HZ IP       1948 49.17                                          119.1 191 
+ IZMR HN IS       1949 04.59                                          119.1 191 
+ DKRZ HZ IP       1948 49.82                                          120.1 170 
+ DKRZ HN IS       1949 03.96                                          120.1 170 
+ DKIZ HZ IP       1948 49.56                                          120.2 217 
+ DKIZ HN IS       1949 03.96                                          120.2 217 
+ DEUN HN IS       1949 05.87                                          125.2 224 
+ DUV  HZ IP       1948 51.26                                          126.1 212 
+ DUV  HN IS       1949 07.15                                          126.1 212 
+ BAND HZ IP       1948 51.09                                          129.5 357 
+ BAND HN IS       1949 08.00                                          129.5 357 
+ AYVA HZ IP       1948 51.81                                          131.0 277 
+ AYVA HN IS       1949 08.10                                          131.0 277 
+ BAG  HZ IP       1948 51.84                                          131.2 244 
+ BAG  HN IS       1949 07.36                                          131.2 244 
+ ULDT HZ IP       1948 51.54                                          132.6  36 
+ ULDT HN IS       1949 08.42                                          132.6  36 
+ DAGE HZ IP       1948 51.84                                          137.5 197 
+ DAGE HN IS       1949 08.63                                          137.5 197 
+ ANDZ HZ IP       1948 54.55                                          150.6  75 
+ BEYE HN IS       1949 14.37                                          154.0 227 
+ UZP  HZ IP       1948 54.43                                          154.2 146 
+ BAYC HN IS       1949 14.48                                          154.8 294 
+ ESEN HZ IP       1948 53.91                                          155.2 175 
+ BNAZ HZ IP       1948 55.32                                          156.3 110 
+ OZDE HN IS       1949 15.65                                          160.4 217 
+ MADA HZ IP       1948 55.84                                          164.7 341 
+ MADA HN IS       1949 16.29                                          164.7 341 
+ DSLC HZ IP       1948 54.68                                          165.4 206 
+ KARB HZ IP       1948 55.96                                          165.8 250 
+ LAPS HZ IP       1948 56.09                                          165.8 316 
+ AYDN HE IS       1949 19.92                                          172.2 190 
+ AUBOZHZ IP       1948 57.12                                          176.6  62 
+ KURT HZ IP       1948 55.96                                          177.7  28 
+ BILE HZ IP       1948 57.50                                          179.6  52 
+ ZEYE HZ IP       1948 57.50                                          181.6 235 
+ ZEYE HN IS       1949 21.18                                          181.6 235 
+ CNKL HZ IP       1949 01.94                                          183.5 303 
+ DNIZ HZ IP       1948 58.27                                          188.6 156 
+ TMAL HZ IP       1949 03.27                                          195.6 356 
+ KZIL HZ IP       1949 00.06                                          198.1 120 
+ TAVA HZ IP       1949 00.19                                          201.4 161 
+ INCE HZ IP       1949 00.58                                          203.7 143 
+ HISA HZ IP       1949 00.58                                          204.3  45 
+ BORA HZ IP       1949 01.09                                          208.3  67 
+ DDIM HZ IP       1949 00.32                                          210.0 204 
+ GOKT HZ IP       1949 01.86                                          211.5 322 
+ MULA HZ IP       1949 01.34                                          215.1 177 
+ ELBA HZ IP       1949 01.99                                          218.0   5 
+ SATE HZ IP       1949 02.24                                          222.4  24 
+ EYUP HZ IP       1949 02.37                                          222.9  16 
+ KESN HZ IP       1949 03.52                                          223.1 325 
+ GOAD HZ IP       1949 03.27                                          224.1 300 
+ DNZT HZ IP       1949 02.88                                          224.3 160 
+ AFYN HZ IP       1949 04.04                                          224.8 116 
+ MURA HZ IP       1949 04.55                                          225.9 345 
+ SARY HZ IP       1949 03.01                                          227.0  17 
+ SEMS HZ IP       1949 03.14                                          228.1  34 
+ GEYV HZ IP       1949 03.78                                          229.7  50 
+ SGAZ HZ IP       1949 04.42                                          230.5  79 
+ BRDR HZ IP       1949 04.42                                          232.3 135 
+ CATL HZ IP       1949 05.06                                          239.0   3 
+ CAVK HZ IP       1949 05.70                                          240.7 315 
+ BYAT HZ IP       1949 06.47                                          242.4  95 
+ ARNA HZ IP       1949 04.93                                          242.9   9 
+ BDRM HZ IP       1949 04.80                                          245.2 196 
+ ISIL HZ IP       1949 05.44                                          247.1  27 
+ GOLH HZ IP       1949 06.85                                          247.5 150 
+ SUSU HZ IP       1949 07.75                                          260.0  59 
+ BAGO HZ IP       1949 08.14                                          262.0 119 
+ VIZE HZ IP       1949 08.39                                          266.8 354 
+ KAYN HZ IP       1949 08.39                                          268.6  42 
+ PURS HN  IAML    0300 00.00     462720   0.3                           3.8
+ PURS HE  IAML    0300 00.00     940891   1.2                           3.8
+ STEP HE  IAML    0300 00.00     185770   1.6                          46.1
+ STEP HN  IAML    0300 00.00     180928   0.5                          46.1
+ DEMI HN  IAML    0300 00.00     246752   0.8                          47.7
+ DEMI HE  IAML    0300 00.00     270561   0.8                          47.7
+ AKHS HN  IAML    0300 00.00     254547   0.8                          48.7
+ AKHS HE  IAML    0300 00.00     153784   1.1                          48.7
+ DURS HE  IAML    0300 00.00     179268   0.9                          50.7
+ DURS HN  IAML    0300 00.00     201963   1.0                          50.7
+ KTT  HN  IAML    0300 00.00     249700   0.6                          57.3
+ KTT  HE  IAML    0300 00.00     242663   1.2                          57.3
+ BKES HE  IAML    0300 00.00     363109   1.9                          64.0
+ BKES HN  IAML    0300 00.00     236550   0.6                          64.0
+ SIMV HE  IAML    0300 00.00     129135   0.9                          71.7
+ SIMV HN  IAML    0300 00.00     251716   0.8                          71.7
+ BLKS HN  IAML    0300 00.00      79190   0.8                          77.9
+ BLKS HE  IAML    0300 00.00     133337   0.8                          77.9
+ BALY HN  IAML    0300 00.00     153064   1.0                          78.4
+ BALY HE  IAML    0300 00.00     177721   1.0                          78.4
+ MANT HN  IAML    0300 00.00     247480   0.8                          84.4
+ MANT HE  IAML    0300 00.00     115019   0.3                          84.4
+ USAK HN  IAML    0300 00.00     140187   0.6                          88.8
+ USAK HE  IAML    0300 00.00     113825   0.7                          88.8
+ CAM  HN  IAML    0300 00.00     282988   1.2                          91.6
+ CAM  HE  IAML    0300 00.00     291095   1.0                          91.6
+ CMH  HN  IAML    0300 00.00     166265   0.6                          92.8
+ CMH  HE  IAML    0300 00.00     265288   1.3                          92.8
+ EMET HE  IAML    0300 00.00     380400   1.1                          98.4
+ EMET HN  IAML    0300 00.00     373371   1.3                          98.4
+ ZEDA HE  IAML    0300 00.00     269181   1.1                         100.3
+ ZEDA HN  IAML    0300 00.00     294719   1.0                         100.3
+ BUHA HN  IAML    0300 00.00     413746   1.0                         102.4
+ BUHA HE  IAML    0300 00.00     334357   0.5                         102.4
+ HAR  HE  IAML    0300 00.00     124167   0.9                         108.4
+ HAR  HN  IAML    0300 00.00     191604   1.0                         108.4
+ GDZ  HE  IAML    0300 00.00     183186   1.0                         111.1
+ GDZ  HN  IAML    0300 00.00     180187   1.0                         111.1
+ ERE  HN  IAML    0300 00.00     304343   1.3                         111.4
+ ERE  HE  IAML    0300 00.00     294488   1.4                         111.4
+ IZMD HN  IAML    0300 00.00     326216   2.3                         112.3
+ IZMD HE  IAML    0300 00.00     360209   1.2                         112.3
+ KIRA HN  IAML    0300 00.00     254674   0.7                         112.6
+ KIRA HE  IAML    0300 00.00     256594   1.2                         112.6
+ NEV  HE  IAML    0300 00.00     254483   1.3                         116.4
+ NEV  HN  IAML    0300 00.00     151579   0.6                         116.4
+ DDKL HE  IAML    0300 00.00     322810   1.2                         118.7
+ DDKL HN  IAML    0300 00.00     323486   1.3                         118.7
+ IZMR HN  IAML    0300 00.00     134051   0.7                         119.9
+ IZMR HE  IAML    0300 00.00     170740   0.9                         119.9
+ DKIZ HN  IAML    0300 00.00     211418   0.5                         120.8
+ DKIZ HE  IAML    0300 00.00     197339   0.7                         120.8
+ DKRZ HE  IAML    0300 00.00     235130   0.6                         120.9
+ DKRZ HN  IAML    0300 00.00     235551   0.5                         120.9
+ DUV  HN  IAML    0300 00.00     230303   0.6                         126.7
+ DUV  HE  IAML    0300 00.00     208582   0.8                         126.7
+ BAND HE  IAML    0300 00.00     190252   0.6                         129.1
+ BAND HN  IAML    0300 00.00     170708   0.7                         129.1
+ AYVA HE  IAML    0300 00.00     572652   1.5                         130.7
+ AYVA HN  IAML    0300 00.00     653482   0.8                         130.7
+ BAG  HN  IAML    0300 00.00     314509   1.2                         131.3
+ BAG  HE  IAML    0300 00.00     300689   1.3                         131.3
+ ULDT HE  IAML    0300 00.00     241849   0.8                         132.0
+ ULDT HN  IAML    0300 00.00     228606   0.8                         132.0
+ DAGE HE  IAML    0300 00.00     122909   0.3                         138.3
+ DAGE HN  IAML    0300 00.00     176116   0.5                         138.3
+ BAYC HN  IAML    0300 00.00     152549   1.0                         154.3
+ BAYC HE  IAML    0300 00.00     129767   0.4                         154.3
+ BEYE HN  IAML    0300 00.00     170807   1.0                         154.4
+ BEYE HE  IAML    0300 00.00     176971   1.1                         154.4
+ OZDE HE  IAML    0300 00.00     151676   0.9                         161.0
+ OZDE HN  IAML    0300 00.00     107063   0.6                         161.0
+ MADA HN  IAML    0300 00.00     108288   1.2                         164.3
+ MADA HE  IAML    0300 00.00     104844   1.0                         164.3
+ LAPS HN  IAML    0300 00.00     106960   1.2                         165.3
+ LAPS HE  IAML    0300 00.00     156221   0.8                         165.3
+ KARB HN  IAML    0300 00.00     248732   1.8                         165.7
+ KARB HE  IAML    0300 00.00     120283   1.1                         165.7
+ KOCA HN  IAML    0300 00.00     222472   1.5                         180.5
+ KOCA HE  IAML    0300 00.00     383984   0.7                         180.5
+ ZEYE HN  IAML    0300 00.00     101686   0.9                         181.7
+ ZEYE HE  IAML    0300 00.00     114244   0.7                         181.7
+ CNKL HE  IAML    0300 00.00      250.5   1.0                         182.9
+ CNKL HN  IAML    0300 00.00      165.1   0.4                         182.9
+ TKOY HE  IAML    0300 00.00      84172   1.2                         185.9
+ TKOY HN  IAML    0300 00.00      59014   1.2                         185.9
+ ECEA HE  IAML    0300 00.00     235171   0.7                         197.5
+ ECEA HN  IAML    0300 00.00     203120   0.5                         197.5
+ BOZC HE  IAML    0300 00.00     119631   0.6                         197.7
+ BOZC HN  IAML    0300 00.00     190874   0.7                         197.7
+ 
+
+ 2023 0207 0313 12.0 L  37.797  37.654  8.4  AFD 44 0.4 5.4WAFD                1
+ GAP= 56                                1.1                                    E
+ SPEC AKCAHH Z MO17.08 ST 4.93 OM 6.26 f0      R  4.76 AL      WI  6.7 MW  5.3 3
+ SPEC AKCAHH Z T001312 K 0.040 GD 8.99 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC MHAVHH Z MO17.28 ST190.6 OM 6.04 f0  1.4 R  1.64 AL      WI  8.9 MW  5.5 3
+ SPEC MHAVHH Z T001315 K 0.040 GD23.58 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC MGNDHH Z MO16.38 ST23.91 OM 4.87 f0  1.4 R  1.64 AL      WI  8.7 MW  4.9 3
+ SPEC MGNDHH Z T001318 K 0.040 GD43.10 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC GZT HH Z MO16.47 ST 5.88 OM 4.88 f0    1 R  2.79 AL      WI  8.8 MW  4.9 3
+ SPEC GZT HH Z T001319 K 0.040 GD51.28 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC NAR HH Z MO16.64 ST 2.50 OM 4.95 f0    1 R  4.23 AL      WI 11.1 MW  5.0 3
+ SPEC NAR HH Z T001322 K 0.040 GD64.52 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC ATABHH Z MO16.99 ST 5.68 OM 5.29 f0    1 R  4.23 AL      WI 11.6 MW  5.3 3
+ SPEC ATABHH Z T001322 K 0.040 GD67.11 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC ELBSHH Z MO17.02 ST 6.02 OM 5.27 f0    1 R  4.23 AL      WI 14.5 MW  5.3 3
+ SPEC ELBSHH Z T001323 K 0.040 GD74.63 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC NZIPHH Z MO17.26 ST10.44 OM 5.45 f0    1 R  4.23 AL      WI 13.7 MW  5.4 3
+ SPEC NZIPHH Z T001325 K 0.040 GD85.47 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC NARIHH Z MO17.02 ST 5.98 OM 5.15 f0    1 R  4.23 AL      WI 14.7 MW  5.3 3
+ SPEC NARIHH Z T001327 K 0.040 GD97.09 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC MTYKHH Z MO17.09 ST43.20 OM 5.20 f0  1.0 R  2.32 AL      WI 19.1 MW  5.3 3
+ SPEC MTYKHH Z T001329 K 0.040 GD104.2 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPECCUGURHH Z MO17.28 ST 3.14 OM 5.37 f0      R  6.42 AL      WI 20.7 MW  5.5 3
+ SPECCUGURHH Z T001328 K 0.040 GD107.5 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC HANMHH Z MO17.09 ST42.81 OM 5.17 f0  1.0 R  2.32 AL      WI 15.7 MW  5.3 3
+ SPEC HANMHH Z T001329 K 0.040 GD109.9 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC ANDNHH Z MO17.27 ST10.70 OM 5.32 f0    1 R  4.23 AL      WI 18.9 MW  5.4 3
+ SPEC ANDNHH Z T001330 K 0.040 GD119.0 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC HEKMHH Z MO16.95 ST31.32 OM 4.99 f0  1.0 R  2.32 AL      WI 19.2 MW  5.2 3
+ SPEC HEKMHH Z T001330 K 0.040 GD122.0 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KUZUHH Z MO17.08 ST256.0 OM 5.11 f0  1.8 R  1.27 AL      WI 17.4 MW  5.3 3
+ SPEC KUZUHH Z T001333 K 0.040 GD126.6 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC SANLHH Z MO17.25 ST62.82 OM 5.24 f0  1.0 R  2.32 AL      WI 19.7 MW  5.4 3
+ SPEC SANLHH Z T001334 K 0.040 GD137.0 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC ELZGHH Z MO17.08 ST 1.98 OM 5.06 f0      R  6.42 AL      WI 22.4 MW  5.3 3
+ SPEC ELZGHH Z T001333 K 0.040 GD138.9 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC SAIMHH Z MO16.78 ST 7.48 OM 4.76 f0    1 R  3.28 AL      WI 23.0 MW  5.1 3
+ SPEC SAIMHH Z T001333 K 0.040 GD140.8 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC CNG HH Z MO17.21 ST 2.67 OM 5.16 f0      R  6.42 AL      WI 22.6 MW  5.4 3
+ SPEC CNG HH Z T001335 K 0.040 GD149.3 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC HASAHH Z MO17.16 ST 2.37 OM 5.09 f0      R  6.42 AL      WI 21.5 MW  5.4 3
+ SPEC HASAHH Z T001338 K 0.040 GD156.3 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC MSAYHH Z MO17.12 ST 2.19 OM 5.04 f0      R  6.42 AL      WI 23.6 MW  5.3 3
+ SPEC MSAYHH Z T001337 K 0.040 GD161.3 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPECCUKANHH Z MO17.53 ST 0.75 OM 5.43 f0      R 12.55 AL      WI 26.7 MW  5.6 3
+ SPECCUKANHH Z T001338 K 0.040 GD166.7 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KEMAHH Z MO16.69 ST 6.12 OM 4.57 f0    1 R  3.28 AL      WI 24.4 MW  5.1 3
+ SPEC KEMAHH Z T001340 K 0.040 GD178.6 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPECCUAYAHH Z MO17.32 ST 3.43 OM 5.19 f0      R  6.42 AL      WI 27.2 MW  5.5 3
+ SPECCUAYAHH Z T001341 K 0.040 GD181.8 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC RHANHH Z MO17.19 ST19.21 OM 5.02 f0    1 R  3.28 AL      WI 27.1 MW  5.4 3
+ SPEC RHANHH Z T001343 K 0.040 GD196.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC AKO HH Z MO17.24 ST 2.88 OM 5.07 f0      R  6.42 AL      WI 30.6 MW  5.4 3
+ SPEC AKO HH Z T001341 K 0.040 GD200.0 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC YAHYHH Z MO17.50 ST 5.22 OM 5.31 f0      R  6.42 AL      WI 29.7 MW  5.6 3
+ SPEC YAHYHH Z T001344 K 0.040 GD204.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC TRC3HH Z MO17.41 ST32.16 OM 5.22 f0    1 R  3.28 AL      WI 30.5 MW  5.5 3
+ SPEC TRC3HH Z T001346 K 0.040 GD212.8 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC YUREHH Z MO17.91 ST 0.24 OM 5.71 f0      R 24.56 AL      WI 30.2 MW  5.9 3
+ SPEC YUREHH Z T001345 K 0.040 GD212.8 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC GUNEHH Z MO17.48 ST 5.02 OM 5.27 f0      R  6.42 AL      WI 31.8 MW  5.6 3
+ SPEC GUNEHH Z T001346 K 0.040 GD217.4 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC DIYAHH Z MO17.47 ST36.34 OM 5.26 f0    1 R  3.28 AL      WI 32.3 MW  5.6 3
+ SPEC DIYAHH Z T001344 K 0.040 GD217.4 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC TRC1HH Z MO17.15 ST17.47 OM 4.94 f0    1 R  3.28 AL      WI 29.6 MW  5.4 3
+ SPEC TRC1HH Z T001347 K 0.040 GD217.4 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPECCUSARHH Z MO17.52 ST 5.42 OM 5.30 f0      R  6.42 AL      WI 32.1 MW  5.6 3
+ SPECCUSARHH Z T001344 K 0.040 GD217.4 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC TNCLHH Z MO17.38 ST 3.96 OM 5.16 f0      R  6.42 AL      WI 32.0 MW  5.5 3
+ SPEC TNCLHH Z T001345 K 0.040 GD217.4 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPECCUZARHH Z MO17.42 ST 4.39 OM 5.18 f0      R  6.42 AL      WI 35.8 MW  5.6 3
+ SPECCUZARHH Z T001347 K 0.040 GD232.6 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC YAYLHH Z MO16.91 ST10.13 OM 4.66 f0    1 R  3.28 AL      WI 35.8 MW  5.2 3
+ SPEC YAYLHH Z T001346 K 0.040 GD238.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC GULEHH Z MO17.28 ST 3.16 OM 4.99 f0      R  6.42 AL      WI 34.9 MW  5.5 3
+ SPEC GULEHH Z T001350 K 0.040 GD263.2 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC DED HH Z MO17.16 ST 2.37 OM 4.85 f0      R  6.42 AL      WI 31.2 MW  5.4 3
+ SPEC DED HH Z T001351 K 0.040 GD270.3 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC EUZMHH Z MO17.12 ST16.33 OM 4.81 f0    1 R  3.28 AL      WI 39.2 MW  5.3 3
+ SPEC EUZMHH Z T001352 K 0.040 GD277.8 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KELTHH Z MO17.18 ST 0.71 OM 4.83 f0      R  9.73 AL      WI 43.9 MW  5.4 3
+ SPEC KELTHH Z T001355 K 0.040 GD294.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC ALUCHH Z MO17.31 ST 0.97 OM 4.96 f0      R  9.73 AL      WI 44.1 MW  5.5 3
+ SPEC ALUCHH Z T001355 K 0.040 GD294.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ NZIP HE IS       0313 38.47                                            0.0   0 
+ AKCA HZ IP       0313 14.38                                            3.1 121 
+ MHAV HZ IP       0313 17.26                                           22.0  98 
+ MGND HZ IP       0313 20.71                                           42.3 210 
+ MGND HE IS       0313 26.37                                           42.3 210 
+ GZT  HZ IP       0313 21.99                                           50.5 191 
+ GZT  HE IS       0313 27.82                                           50.5 191 
+ NAR  HZ IP       0313 24.12                                           64.0 225 
+ NAR  HE IS       0313 32.22                                           64.0 225 
+ ATAB HZ IP       0313 24.69                                           66.7 123 
+ ATAB HN IS       0313 33.25                                           66.7 123 
+ ELBS HZ IP       0313 25.67                                           74.4 321 
+ ELBS HN IS       0313 37.21                                           74.4 321 
+ NZIP HZ IP       0313 27.76                                           84.9 179 
+ NARI HZ IP       0313 29.97                                           97.0  84 
+ NARI HN IS       0313 41.71                                           97.0  84 
+ MTYK HZ IP       0313 31.25                                          103.4 212 
+ CUGURHZ IP       0313 30.76                                          107.4 342 
+ CUGURHE IS       0313 48.49                                          107.4 342 
+ HANM HZ IP       0313 31.90                                          110.1 103 
+ HANM HE IS       0313 44.63                                          110.1 103 
+ KAMA HE IS       0313 43.92                                          110.9 234 
+ ANDN HZ IP       0313 32.73                                          119.2 258 
+ ANDN HN IS       0313 48.60                                          119.2 258 
+ HEKM HZ IP       0313 32.90                                          121.4  12 
+ HEKM HN IS       0313 49.11                                          121.4  12 
+ KUZU HZ IP       0313 35.74                                          125.7 205 
+ KUZU HN IS       0313 50.09                                          125.7 205 
+ SANL HZ IP       0313 36.23                                          136.9 120 
+ SANL HN IS       0313 52.90                                          136.9 120 
+ ELZG HZ IP       0313 35.70                                          139.2  56 
+ SAIM HZ IP       0313 35.63                                          140.8 279 
+ SAIM HN IS       0313 55.62                                          140.8 279 
+ CNG  HZ IP       0313 37.74                                          150.0  72 
+ CNG  HN IS       0313 57.33                                          150.0  72 
+ HASA HZ IP       0313 40.09                                          155.9 223 
+ HASA HE IS       0313 58.62                                          155.9 223 
+ MSAY HZ IP       0313 39.72                                          161.1  56 
+ MSAY HN IS       0314 00.31                                          161.1  56 
+ 2107 HZ IP       0313 39.68                                          165.1  76 
+ 2107 HN IS       0314 01.43                                          165.1  76 
+ CUKANHZ IP       0313 40.67                                          167.5 355 
+ CUKANHE IS       0314 04.38                                          167.5 355 
+ KEMA HZ IP       0313 42.72                                          178.4  23 
+ KEMA HN IS       0314 04.12                                          178.4  23 
+ CUAYAHZ IP       0313 43.02                                          180.0 334 
+ CUAYAHE IS       0314 07.20                                          180.0 334 
+ RHAN HZ IP       0313 45.99                                          195.7 209 
+ RHAN HN IS       0314 10.05                                          195.7 209 
+ AKO  HZ IP       0313 43.55                                          199.8 260 
+ AKO  HN IS       0314 11.19                                          199.8 260 
+ YAHY HZ IP       0313 46.50                                          204.9 280 
+ YAHY HN IS       0314 13.16                                          204.9 280 
+ TRC3 HZ IP       0313 48.11                                          210.5 296 
+ TRC3 HN IS       0314 15.61                                          210.5 296 
+ YURE HZ IP       0313 47.02                                          210.9 240 
+ GUNE HZ IP       0313 48.88                                          216.0 306 
+ GUNE HE IS       0314 17.63                                          216.0 306 
+ DIYA HZ IP       0313 46.79                                          217.2  85 
+ TRC1 HZ IP       0313 49.31                                          217.3 291 
+ TRC1 HN IS       0314 15.91                                          217.3 291 
+ CUSARHZ IP       0313 46.72                                          218.1 326 
+ CUSARHE IS       0314 15.83                                          218.1 326 
+ TNCL HZ IP       0313 47.57                                          218.7  48 
+ TNCL HE IS       0314 16.54                                          218.7  48 
+ CUZARHZ IP       0313 49.35                                          231.7   2 
+ CUZARHE IS       0314 22.15                                          231.7   2 
+ 2408 HZ IP       0313 49.08                                          233.3  30 
+ 2408 HE IS       0314 21.14                                          233.3  30 
+ YAYL HZ IP       0313 48.59                                          239.8 216 
+ YAYL HE IS       0314 21.36                                          239.8 216 
+ GULE HZ IP       0313 52.40                                          261.5 259 
+ GULE HN IS       0314 24.29                                          261.5 259 
+ DED  HZ IP       0313 53.33                                          271.1 251 
+ EUZM HZ IP       0313 54.79                                          275.2  39 
+ EUZM HE IS       0314 31.00                                          275.2  39 
+ 6004 HZ IP       0313 56.79                                          288.5 355 
+ KELT HZ IP       0313 57.08                                          293.9  27 
+ ALUC HZ IP       0313 57.93                                          297.5  18 
+ 
+
+ 2023 0206 0201 44.0 L  37.292  37.004 16.4  AFD 22 0.9 5.3WAFD                1
+ GAP= 58                                2.7                                    E
+ SPEC NAR HH Z MO15.77 ST 5.81 OM 4.52 f0  1.4 R  1.64 AL      WI  5.6 MW  4.4 3
+ SPEC NAR HH Z T230147 K 0.040 GD23.70 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC MTYKHH Z MO16.27 ST18.63 OM 4.85 f0  1.4 R  1.64 AL      WI  8.0 MW  4.8 3
+ SPEC MTYKHH Z T230149 K 0.040 GD35.71 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KAMAHH Z MO16.03 ST52.82 OM 4.60 f0  2.4 R  0.96 AL      WI  8.0 MW  4.6 3
+ SPEC KAMAHH Z T230148 K 0.040 GD35.84 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC MGNDHH Z MO15.54 ST16.88 OM 4.01 f0  2.4 R  0.96 AL      WI  7.6 MW  4.3 3
+ SPEC MGNDHH Z T230151 K 0.040 GD45.05 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC GZT HH Z MO16.45 ST 1.15 OM 4.86 f0      R  4.76 AL      WI  8.1 MW  4.9 3
+ SPEC GZT HH Z T230152 K 0.040 GD51.81 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KUZUHH Z MO16.15 ST68.43 OM 4.49 f0  2.4 R  0.96 AL      WI  8.9 MW  4.7 3
+ SPEC KUZUHH Z T230153 K 0.040 GD59.88 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC NZIPHH Z MO17.32 ST 0.32 OM 5.61 f0      R 14.10 AL      WI 19.5 MW  5.5 3
+ SPEC NZIPHH Z T230146 K 0.040 GD67.11 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC ANDNHH Z MO16.22 ST80.96 OM 4.50 f0  2.4 R  0.96 AL      WI 10.2 MW  4.7 3
+ SPEC ANDNHH Z T230154 K 0.040 GD68.97 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC HASAHH Z MO17.23 ST 0.26 OM 5.47 f0      R 14.10 AL      WI 13.4 MW  5.4 3
+ SPEC HASAHH Z T230151 K 0.040 GD76.92 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC MHAVHH Z MO17.25 ST10.21 OM 5.39 f0    1 R  4.23 AL      WI 15.6 MW  5.4 3
+ SPEC MHAVHH Z T230156 K 0.040 GD97.09 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC SAIMHH Z MO17.02 ST 6.06 OM 5.09 f0    1 R  4.23 AL      WI 17.4 MW  5.3 3
+ SPEC SAIMHH Z T230202 K 0.040 GD113.6 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC ELBSHH Z MO17.29 ST11.33 OM 5.35 f0    1 R  4.23 AL      WI 18.4 MW  5.5 3
+ SPEC ELBSHH Z T230202 K 0.040 GD116.3 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC ATABHH Z MO16.58 ST81.11 OM 4.64 f0  1.8 R  1.27 AL      WI 18.9 MW  5.0 3
+ SPEC ATABHH Z T230201 K 0.040 GD116.3 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC RHANHH Z MO16.96 ST 5.22 OM 5.00 f0    1 R  4.23 AL      WI 15.6 MW  5.2 3
+ SPEC RHANHH Z T230203 K 0.040 GD122.0 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC YUREHH Z MO18.16 ST 0.06 OM 6.16 f0      R 46.98 AL      WI 19.5 MW  6.0 3
+ SPEC YUREHH Z T230206 K 0.040 GD135.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC AKO HH Z MO18.18 ST 0.39 OM 6.16 f0      R 25.74 AL      WI 20.0 MW  6.1 3
+ SPEC AKO HH Z T230206 K 0.040 GD140.8 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPECCUGURHH Z MO17.50 ST 0.71 OM 5.42 f0      R 12.55 AL      WI 21.2 MW  5.6 3
+ SPECCUGURHH Z T230210 K 0.040 GD161.3 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC YAHYHH Z MO18.02 ST 0.04 OM 5.91 f0      R 48.04 AL      WI 22.4 MW  6.0 3
+ SPEC YAHYHH Z T230213 K 0.040 GD172.4 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC GULEHH Z MO18.17 ST 0.43 OM 5.99 f0      R 24.56 AL      WI 31.5 MW  6.0 3
+ SPEC GULEHH Z T230217 K 0.040 GD200.0 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC DED HH Z MO18.50 ST 0.02 OM 6.32 f0      R 93.96 AL      WI 28.9 MW  6.3 3
+ SPEC DED HH Z T230214 K 0.040 GD200.0 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC NIDEHH Z MO17.22 ST 0.37 OM 5.02 f0      R 12.55 AL      WI 28.4 MW  5.4 3
+ SPEC NIDEHH Z T230219 K 0.040 GD212.8 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC GUNEHH Z MO18.77 ST 0.03 OM 6.56 f0      R 93.96 AL      WI 28.7 MW  6.5 3
+ SPEC GUNEHH Z T230220 K 0.040 GD217.4 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ NAR  HZ IP       0201 49.31                                           17.1  49 
+ NAR  HN IS       0201 51.91                                           17.1  49 
+ MTYK HZ IP       0201 51.14                                           31.7 172 
+ MTYK HN IS       0201 56.17                                           31.7 172 
+ KAMA HZ IP       0201 50.77                                           31.9 250 
+ KAMA HN IS       0201 55.79                                           31.9 250 
+ MGND HZ IP       0201 53.18                                           41.9  60 
+ MGND HN IS       0201 57.76                                           41.9  60 
+ GZT  HZ IP       0201 54.58                                           49.0  81 
+ GZT  HN IS       0201 59.64                                           49.0  81 
+ KUZU HZ IP       0201 55.86                                           57.6 174 
+ KUZU HN IS       0202 01.73                                           57.6 174 
+ NZIP HZ IP       0201 48.00                                           65.1 114 
+ NZIP HN IS       0202 04.47                                           65.1 114 
+ ANDN HZ IP       0201 56.70                                           67.2 299 
+ ANDN HN IS       0202 03.87                                           67.2 299 
+ HASA HZ IP       0201 53.42                                           75.1 219 
+ HASA HE IS       0202 03.82                                           75.1 219 
+ MHAV HZ IP       0201 58.50                                           95.7  55 
+ SAIM HZ IP       0202 04.57                                          112.3 313 
+ SAIM HN IS       0202 18.94                                          112.3 313 
+ ATAB HZ IP       0202 03.56                                          115.2  79 
+ ELBS HZ IP       0202 04.94                                          115.2   4 
+ ATAB HN IS       0202 19.45                                          115.2  79 
+ ELBS HN IS       0202 20.29                                          115.2   4 
+ RHAN HZ IP       0202 05.99                                          120.2 198 
+ RHAN HN IS       0202 18.62                                          120.2 198 
+ YURE HZ IP       0202 08.73                                          133.8 248 
+ YURE HN IS       0202 25.21                                          133.8 248 
+ AKO  HZ IP       0202 08.23                                          140.4 279 
+ AKO  HN IS       0202 25.24                                          140.4 279 
+ CUGURHZ IP       0202 12.91                                          160.8   8 
+ CUGURHE IS       0202 31.14                                          160.8   8 
+ YAHY HZ IP       0202 15.47                                          170.8 302 
+ YAHY HN IS       0202 34.83                                          170.8 302 
+ GULE HZ IP       0202 19.25                                          198.4 271 
+ GULE HN IS       0202 47.79                                          198.4 271 
+ DED  HZ IP       0202 16.28                                          200.8 261 
+ DED  HE IS       0202 42.20                                          200.8 261 
+ NIDE HZ IP       0202 21.43                                          212.3 293 
+ NIDE HN IS       0202 46.81                                          212.3 293 
+ GUNE HZ IP       0202 22.72                                          216.9 327 
+ GUNE HN IS       0202 48.37                                          216.9 327 
+ NAR  HZ  IAML    0300 00.00      69093   0.5                          17.3
+ MTYK HZ  IAML    0300 00.00      66680   0.8                          31.5
+ KAMA HZ  IAML    0300 00.00      63313   0.6                          32.3
+ MGND HZ  IAML    0300 00.00      80997   0.5                          41.6
+ GZT  HZ  IAML    0300 00.00      44503   0.7                          49.6
+ KUZU HZ  IAML    0300 00.00      33753   0.3                          58.2
+ NZIP HZ  IAML    0300 00.00      23030   0.6                          65.4
+ HASA HZ  IAML    0300 00.00      55241   0.4                          76.0
+ SAIM HZ  IAML    0300 00.00     115926   0.3                         111.3
+ ATAB HZ  IAML    0300 00.00      39448   0.7                         115.5
+ RHAN HZ  IAML    0300 00.00      25197   0.5                         120.5
+ YURE HZ  IAML    0300 00.00      10989   0.9                         132.6
+ AKO  HZ  IAML    0300 00.00      10782   0.4                         139.1
+ CUGURHZ  IAML    0300 00.00      17309   0.9                         160.7
+ YAHY HZ  IAML    0300 00.00      24585   0.5                         169.8
+ TRC1 HZ  IAML    0300 00.00      17837   0.5                         196.5
+ GULE HZ  IAML    0300 00.00     7027.3   0.5                         197.3
+ TRC3 HZ  IAML    0300 00.00      58242   1.1                         197.5
+ DED  HZ  IAML    0300 00.00     2470.3   0.5                         199.1
+ NIDE HZ  IAML    0300 00.00      14659   0.6                         211.4
+ GUNE HZ  IAML    0300 00.00      15415   0.9                         215.9
+ 
+
+ 2023 0107 0152 57.0 L  39.374  26.241 14.0  AFD 48 0.3 5.0WAFD                1
+ GAP=158                                0.5                                    E
+ SPEC KOCAHH Z MO16.70 ST243.0 OM 5.43 f0  2.4 R  0.96 AL      WI  8.7 MW  5.1 3
+ SPEC KOCAHH Z T225300 K 0.040 GD24.88 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC AYVAHH Z MO16.06 ST11.46 OM 4.54 f0  1.4 R  1.64 AL      WI  8.1 MW  4.6 3
+ SPEC AYVAHH Z T225302 K 0.040 GD44.25 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BAYCHH Z MO16.08 ST11.80 OM 4.48 f0  1.4 R  1.64 AL      WI 10.0 MW  4.7 3
+ SPEC BAYCHH Z T225304 K 0.040 GD52.36 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BOZCHH Z MO15.93 ST41.91 OM 4.30 f0  2.4 R  0.96 AL      WI  9.9 MW  4.6 3
+ SPEC BOZCHH Z T225305 K 0.040 GD57.14 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC DDKLHH Z MO16.42 ST 1.51 OM 4.78 f0    1 R  4.23 AL      WI 12.7 MW  4.9 3
+ SPEC DDKLHH Z T225305 K 0.040 GD57.47 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC IZMDHH Z MO13.32 ST 0.04 OM 1.56 f0  1.8 R  1.27 AL      WI 15.0 MW  2.8 3
+ SPEC IZMDHH Z T225308 K 0.040 GD75.76 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BUHAHH Z MO16.12 ST 4.61 OM 4.36 f0  1.0 R  2.32 AL      WI 14.8 MW  4.7 3
+ SPEC BUHAHH Z T225308 K 0.040 GD76.34 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC ECEAHH Z MO16.45 ST09.96 OM 4.69 f0  1.0 R  2.32 AL      WI 12.4 MW  4.9 3
+ SPEC ECEAHH Z T225308 K 0.040 GD76.92 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KARBHH Z MO16.30 ST 6.91 OM 4.50 f0  1.0 R  2.32 AL      WI 13.0 MW  4.8 3
+ SPEC KARBHH Z T225309 K 0.040 GD82.64 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC ZEDAHH Z MO16.34 ST 1.25 OM 4.52 f0    1 R  4.23 AL      WI 12.9 MW  4.8 3
+ SPEC ZEDAHH Z T225310 K 0.040 GD87.72 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC GOADHH Z MO16.06 ST 4.05 OM 4.22 f0  1.0 R  2.32 AL      WI 13.8 MW  4.6 3
+ SPEC GOADHH Z T225312 K 0.040 GD93.46 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BAG HH Z MO16.23 ST 5.91 OM 4.36 f0  1.0 R  2.32 AL      WI 15.0 MW  4.8 3
+ SPEC BAG HH Z T225312 K 0.040 GD98.04 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC NEV HH Z MO16.43 ST 9.47 OM 4.51 f0  1.0 R  2.32 AL      WI 16.3 MW  4.9 3
+ SPEC NEV HH Z T225314 K 0.040 GD111.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC LAPSHH Z MO16.54 ST12.20 OM 4.62 f0  1.0 R  2.32 AL      WI 17.2 MW  5.0 3
+ SPEC LAPSHH Z T225314 K 0.040 GD112.4 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC CAM HH Z MO16.95 ST31.08 OM 5.00 f0  1.0 R  2.32 AL      WI 20.5 MW  5.2 3
+ SPEC CAM HH Z T225316 K 0.040 GD117.6 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BALYHH Z MO16.42 ST 9.18 OM 4.44 f0  1.0 R  2.32 AL      WI 18.4 MW  4.9 3
+ SPEC BALYHH Z T225317 K 0.040 GD128.2 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC STEPHH Z MO16.34 ST 2.71 OM 4.35 f0    1 R  3.28 AL      WI 21.4 MW  4.8 3
+ SPEC STEPHH Z T225317 K 0.040 GD129.9 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC DEUNHH Z MO16.07 ST24.86 OM 4.05 f0  1.8 R  1.27 AL      WI 18.8 MW  4.6 3
+ SPEC DEUNHH Z T225319 K 0.040 GD140.8 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BEYEHH Z MO16.10 ST 1.57 OM 4.08 f0    1 R  3.28 AL      WI 20.7 MW  4.7 3
+ SPEC BEYEHH Z T225319 K 0.040 GD142.9 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC CAVKHH Z MO16.78 ST21.04 OM 4.73 f0  1.0 R  2.32 AL      WI 19.9 MW  5.1 3
+ SPEC CAVKHH Z T225320 K 0.040 GD147.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC GOKTHH Z MO16.75 ST 0.94 OM 4.71 f0      R  6.42 AL      WI 20.9 MW  5.1 3
+ SPEC GOKTHH Z T225320 K 0.040 GD147.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC AKHSHH Z MO16.86 ST 0.16 OM 4.81 f0      R 12.55 AL      WI 23.4 MW  5.2 3
+ SPEC AKHSHH Z T225320 K 0.040 GD149.3 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BKESHH Z MO16.13 ST 1.66 OM 4.07 f0    1 R  3.28 AL      WI 23.8 MW  4.7 3
+ SPEC BKESHH Z T225320 K 0.040 GD151.5 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC DUV HH Z MO17.11 ST 2.11 OM 5.01 f0      R  6.42 AL      WI 24.9 MW  5.3 3
+ SPEC DUV HH Z T225322 K 0.040 GD166.7 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC CMH HH Z MO16.40 ST 3.11 OM 4.30 f0    1 R  3.28 AL      WI 21.2 MW  4.9 3
+ SPEC CMH HH Z T225323 K 0.040 GD166.7 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KESNHH Z MO16.48 ST 3.75 OM 4.38 f0    1 R  3.28 AL      WI 21.0 MW  4.9 3
+ SPEC KESNHH Z T225322 K 0.040 GD166.7 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC SARTHH Z MO16.52 ST 4.09 OM 4.42 f0    1 R  3.28 AL      WI 23.5 MW  4.9 3
+ SPEC SARTHH Z T225322 K 0.040 GD169.5 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC MADAHH Z MO16.59 ST 4.87 OM 4.47 f0    1 R  3.28 AL      WI 23.0 MW  5.0 3
+ SPEC MADAHH Z T225323 K 0.040 GD178.6 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KTT HH Z MO16.38 ST 0.40 OM 4.25 f0      R  6.42 AL      WI 26.8 MW  4.9 3
+ SPEC KTT HH Z T225324 K 0.040 GD178.6 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BANDHH Z MO16.13 ST 1.69 OM 3.97 f0    1 R  3.28 AL      WI 25.0 MW  4.7 3
+ SPEC BANDHH Z T225326 K 0.040 GD192.3 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC DAGEHH Z MO16.51 ST 4.01 OM 4.33 f0    1 R  3.28 AL      WI 27.8 MW  4.9 3
+ SPEC DAGEHH Z T225329 K 0.040 GD204.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC GCAMHH Z MO15.87 ST 6.80 OM 3.68 f0  1.4 R  1.68 AL      WI 28.4 MW  4.5 3
+ SPEC GCAMHH Z T225330 K 0.040 GD204.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC DEMIHH Z MO16.04 ST10.19 OM 3.83 f0  1.4 R  1.68 AL      WI 32.5 MW  4.6 3
+ SPEC DEMIHH Z T225329 K 0.040 GD217.4 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC MANTHH Z MO16.76 ST 0.95 OM 4.53 f0      R  6.42 AL      WI 34.3 MW  5.1 3
+ SPEC MANTHH Z T225329 K 0.040 GD227.3 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC MURAHH Z MO17.36 ST 3.75 OM 5.13 f0      R  6.42 AL      WI 33.2 MW  5.5 3
+ SPEC MURAHH Z T225331 K 0.040 GD227.3 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KIRAHH Z MO16.47 ST 3.68 OM 4.23 f0    1 R  3.28 AL      WI 35.1 MW  4.9 3
+ SPEC KIRAHH Z T225330 K 0.040 GD232.6 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC DKRZHH Z MO16.66 ST 5.67 OM 4.41 f0    1 R  3.28 AL      WI 36.0 MW  5.0 3
+ SPEC DKRZHH Z T225331 K 0.040 GD238.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC ERE HH Z MO16.23 ST15.59 OM 3.97 f0  1.4 R  1.68 AL      WI 31.8 MW  4.8 3
+ SPEC ERE HH Z T225334 K 0.040 GD238.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC SIMVHH Z MO16.24 ST15.93 OM 3.97 f0  1.4 R  1.68 AL      WI 36.9 MW  4.8 3
+ SPEC SIMVHH Z T225332 K 0.040 GD243.9 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC HAR HH Z MO16.30 ST 2.46 OM 4.02 f0    1 R  3.28 AL      WI 38.9 MW  4.8 3
+ SPEC HAR HH Z T225332 K 0.040 GD250.0 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC USAKHH Z MO16.83 ST 1.12 OM 4.55 f0      R  6.42 AL      WI 38.5 MW  5.2 3
+ SPEC USAKHH Z T225333 K 0.040 GD256.4 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC ESENHH Z MO16.19 ST 1.91 OM 3.91 f0    1 R  3.28 AL      WI 39.1 MW  4.7 3
+ SPEC ESENHH Z T225333 K 0.040 GD256.4 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC SUL HH Z MO16.13 ST 0.59 OM 3.83 f0      R  4.64 AL      WI 41.2 MW  4.7 3
+ SPEC SUL HH Z T225334 K 0.040 GD263.2 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC ELBAHH Z MO16.68 ST 0.23 OM 4.37 f0      R  9.73 AL      WI 41.7 MW  5.1 3
+ SPEC ELBAHH Z T225335 K 0.040 GD270.3 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC VIZEHH Z MO16.86 ST 0.34 OM 4.53 f0      R  9.73 AL      WI 43.6 MW  5.2 3
+ SPEC VIZEHH Z T225336 K 0.040 GD277.8 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC CATLHH Z MO16.47 ST 1.30 OM 4.14 f0      R  4.64 AL      WI 41.7 MW  4.9 3
+ SPEC CATLHH Z T225339 K 0.040 GD285.7 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC ARMNHH Z MO16.44 ST 1.21 OM 4.10 f0      R  4.64 AL      WI 45.5 MW  4.9 3
+ SPEC ARMNHH Z T225338 K 0.040 GD294.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ KOCA HZ IP       0153 02.01                                           17.0 334 
+ AYVA HZ IP       0153 04.89                                           40.3  99 
+ AYVA HN IS       0153 10.02                                           40.3  99 
+ BAYC HZ IP       0153 06.39                                           49.0  32 
+ BAYC HE IS       0153 13.34                                           49.0  32 
+ BOZC HZ IP       0153 07.51                                           54.2 345 
+ BOZC HN IS       0153 14.45                                           54.2 345 
+ DDKL HZ IP       0153 07.52                                           54.4 109 
+ IZMD HZ IP       0153 10.62                                           73.3 124 
+ BUHA HZ IP       0153 10.40                                           74.2  77 
+ ECEA HZ IP       0153 10.90                                           74.5 357 
+ ECEA HE IS       0153 20.29                                           74.5 357 
+ KARB HZ IP       0153 11.53                                           80.7 168 
+ KARB HE IS       0153 21.54                                           80.7 168 
+ ZEDA HZ IP       0153 12.53                                           86.2 121 
+ ZEDA HN IS       0153 22.42                                           86.2 121 
+ GOAD HZ IP       0153 14.16                                           91.6 343 
+ GOAD HE IS       0153 24.94                                           91.6 343 
+ BAG  HZ IP       0153 14.41                                           96.1 145 
+ BAG  HN IS       0153 26.43                                           96.1 145 
+ NEV  HZ IP       0153 16.66                                          109.6  53 
+ NEV  HE IS       0153 29.99                                          109.6  53 
+ LAPS HZ IP       0153 16.66                                          111.4  27 
+ LAPS HN IS       0153 30.82                                          111.4  27 
+ CAM  HZ IP       0153 18.16                                          116.6 126 
+ BALY HZ IP       0153 19.41                                          126.7  70 
+ BALY HN IS       0153 34.82                                          126.7  70 
+ STEP HZ IP       0153 19.41                                          128.8  89 
+ DEUN HZ IP       0153 21.67                                          139.4 142 
+ DEUN HN IS       0153 37.44                                          139.4 142 
+ BEYE HZ IP       0153 21.04                                          140.9 154 
+ BEYE HE IS       0153 38.70                                          140.9 154 
+ CAVK HZ IP       0153 22.29                                          146.6 359 
+ CAVK HN IS       0153 39.20                                          146.6 359 
+ GOKT HZ IP       0153 22.29                                          146.7  13 
+ GOKT HN IS       0153 40.20                                          146.7  13 
+ AKHS HZ IP       0153 22.17                                          147.1 111 
+ BKES HZ IP       0153 22.67                                          150.8  74 
+ DUV  HZ IP       0153 24.22                                          165.1 140 
+ CMH  HZ IP       0153 25.22                                          165.5  64 
+ CMH  HN IS       0153 43.45                                          165.5  64 
+ KESN HZ IP       0153 24.80                                          165.7  13 
+ SART HZ IP       0153 24.42                                          167.2  28 
+ SART HE IS       0153 44.96                                          167.2  28 
+ MADA HZ IP       0153 25.93                                          176.6  39 
+ KTT  HZ IP       0153 26.77                                          178.0 114 
+ BAND HZ IP       0153 28.10                                          193.3  54 
+ DAGE HZ IP       0153 31.76                                          201.4 138 
+ GCAM HZ IP       0153 32.10                                          204.6 154 
+ DEMI HZ IP       0153 31.49                                          217.1  98 
+ MANT HZ IP       0153 31.82                                          224.3 115 
+ MURA HZ IP       0153 33.26                                          225.5  27 
+ KIRA HZ IP       0153 32.65                                          230.2 124 
+ DKRZ HZ IP       0153 33.37                                          235.7 125 
+ ERE  HZ IP       0153 36.05                                          240.0  71 
+ ERE  HN IS       0154 04.85                                          240.0  71 
+ SIMV HZ IP       0153 34.55                                          243.1  96 
+ HAR  HZ IP       0153 34.55                                          250.0 116 
+ USAK HZ IP       0153 35.80                                          252.9 106 
+ ESEN HZ IP       0153 35.54                                          254.2 132 
+ 2202 HZ IP       0153 36.59                                          257.6   6 
+ SUL  HZ IP       0153 36.55                                          265.0 122 
+ ELBA HZ IP       0153 37.80                                          271.1  42 
+ VIZE HZ IP       0153 38.42                                          280.2  28 
+ CATL HZ IP       0153 41.31                                          283.7  38 
+ ARMN HZ IP       0153 40.48                                          294.0  19 
+ 
+
+ 2021 1108 1743 21.0 L  37.862  32.117  6.8  AFD 77 0.4 5.1WAFD                1
+ GAP= 29                                2.2                                    E
+ SPEC KONTHH Z MO16.37 ST266.8 OM 5.11 f0  3.2 R  0.73 AL      WI  3.5 MW  4.8 3
+ SPEC KONTHH Z T174325 K 0.040 GD24.31 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KMERHH Z MO16.08 ST137.8 OM 4.81 f0  3.2 R  0.73 AL      WI  3.2 MW  4.7 3
+ SPEC KMERHH Z T174325 K 0.040 GD25.34 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC DOGAHH Z MO16.22 ST81.28 OM 4.66 f0  2.4 R  0.96 AL      WI  6.1 MW  4.7 3
+ SPEC DOGAHH Z T174329 K 0.040 GD48.24 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC SEDIHH Z MO15.77 ST142.9 OM 4.15 f0  4.1 R  0.57 AL      WI  7.5 MW  4.4 3
+ SPEC SEDIHH Z T174331 K 0.040 GD56.09 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KDHNHH Z MO16.34 ST21.77 OM 4.60 f0  1.4 R  1.64 AL      WI  9.6 MW  4.8 3
+ SPEC KDHNHH Z T174334 K 0.040 GD73.64 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC ALINHH Z MO16.21 ST34.52 OM 4.42 f0  1.8 R  1.27 AL      WI 11.0 MW  4.7 3
+ SPEC ALINHH Z T174336 K 0.040 GD82.78 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC YVACHH Z MO16.38 ST50.69 OM 4.55 f0  1.8 R  1.27 AL      WI 11.2 MW  4.9 3
+ SPEC YVACHH Z T174336 K 0.040 GD89.53 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KKBEHH Z MO16.68 ST 2.75 OM 4.80 f0    1 R  4.23 AL      WI 12.8 MW  5.1 3
+ SPEC KKBEHH Z T174338 K 0.040 GD102.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC UCKUHH Z MO16.63 ST14.98 OM 4.73 f0  1.0 R  2.32 AL      WI 13.4 MW  5.0 3
+ SPEC UCKUHH Z T174339 K 0.040 GD105.4 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC CBEYHH Z MO16.23 ST218.0 OM 4.31 f0  3.3 R  0.70 AL      WI 13.9 MW  4.8 3
+ SPEC CBEYHH Z T174340 K 0.040 GD109.2 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KEPZHH Z MO16.08 ST25.51 OM 4.14 f0  1.8 R  1.27 AL      WI 14.6 MW  4.7 3
+ SPEC KEPZHH Z T174341 K 0.040 GD116.3 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BAGOHH Z MO16.90 ST 4.61 OM 4.96 f0    1 R  4.23 AL      WI 14.9 MW  5.2 3
+ SPEC BAGOHH Z T174341 K 0.040 GD117.6 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC CTIKHH Z MO16.77 ST126.0 OM 4.76 f0  1.8 R  1.27 AL      WI 17.5 MW  5.1 3
+ SPEC CTIKHH Z T174345 K 0.040 GD136.6 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KUROHH Z MO16.75 ST19.88 OM 4.73 f0  1.0 R  2.32 AL      WI 17.8 MW  5.1 3
+ SPEC KUROHH Z T174345 K 0.040 GD141.8 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BUCAHH Z MO16.47 ST10.25 OM 4.42 f0  1.0 R  2.32 AL      WI 18.9 MW  4.9 3
+ SPEC BUCAHH Z T174346 K 0.040 GD149.7 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC ERMKHH Z MO16.71 ST110.3 OM 4.66 f0  1.8 R  1.27 AL      WI 19.1 MW  5.1 3
+ SPEC ERMKHH Z T174347 K 0.040 GD153.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BYATHH Z MO16.58 ST488.7 OM 4.51 f0  3.3 R  0.70 AL      WI 19.7 MW  5.0 3
+ SPEC BYATHH Z T174348 K 0.040 GD156.3 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC AKSYHH Z MO16.68 ST 5.99 OM 4.58 f0    1 R  3.28 AL      WI 21.0 MW  5.1 3
+ SPEC AKSYHH Z T174349 K 0.040 GD168.4 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KZILHH Z MO17.26 ST 3.02 OM 5.14 f0      R  6.42 AL      WI 22.1 MW  5.4 3
+ SPEC KZILHH Z T174351 K 0.040 GD178.6 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC 704 HH Z MO18.02 ST 2.32 OM 5.89 f0      R 12.55 AL      WI 22.1 MW  5.9 3
+ SPEC 704 HH Z T174351 K 0.040 GD182.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC GAZIHH Z MO16.62 ST38.26 OM 4.48 f0  1.4 R  1.68 AL      WI 21.9 MW  5.0 3
+ SPEC GAZIHH Z T174351 K 0.040 GD182.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPECAUSIVHH Z MO16.81 ST 8.00 OM 4.67 f0    1 R  3.28 AL      WI 22.3 MW  5.1 3
+ SPECAUSIVHH Z T174351 K 0.040 GD182.8 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC 707 HH Z MO17.32 ST 0.47 OM 5.19 f0      R 12.55 AL      WI 22.9 MW  5.5 3
+ SPEC 707 HH Z T174352 K 0.040 GD183.2 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KORTHH Z MO16.63 ST 5.23 OM 4.49 f0    1 R  3.28 AL      WI 22.8 MW  5.0 3
+ SPEC KORTHH Z T174352 K 0.040 GD183.2 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KERGHH Z MO16.74 ST 6.86 OM 4.60 f0    1 R  3.28 AL      WI 21.7 MW  5.1 3
+ SPEC KERGHH Z T174350 K 0.040 GD184.2 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC AFYOHH Z MO17.27 ST23.01 OM 5.12 f0    1 R  3.28 AL      WI 23.4 MW  5.4 3
+ SPEC AFYOHH Z T174353 K 0.040 GD189.4 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BSIRHH Z MO16.95 ST11.04 OM 4.78 f0    1 R  3.28 AL      WI 23.4 MW  5.2 3
+ SPEC BSIRHH Z T174353 K 0.040 GD196.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BBALHH Z MO16.46 ST26.77 OM 4.27 f0  1.4 R  1.68 AL      WI 24.5 MW  4.9 3
+ SPEC BBALHH Z T174354 K 0.040 GD206.6 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KIRSHH Z MO16.53 ST 4.20 OM 4.33 f0    1 R  3.28 AL      WI 25.4 MW  5.0 3
+ SPEC KIRSHH Z T174355 K 0.040 GD211.4 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BNAZHH Z MO16.68 ST44.26 OM 4.47 f0  1.4 R  1.68 AL      WI 25.7 MW  5.1 3
+ SPEC BNAZHH Z T174356 K 0.040 GD215.5 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC SGAZHH Z MO16.55 ST33.25 OM 4.35 f0  1.4 R  1.68 AL      WI 25.2 MW  5.0 3
+ SPEC SGAZHH Z T174355 K 0.040 GD216.5 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC INCEHH Z MO16.88 ST 1.27 OM 4.66 f0      R  6.42 AL      WI 26.3 MW  5.2 3
+ SPEC INCEHH Z T174357 K 0.040 GD224.2 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC GULNHH Z MO16.49 ST28.38 OM 4.26 f0  1.4 R  1.68 AL      WI 26.1 MW  4.9 3
+ SPEC GULNHH Z T174356 K 0.040 GD225.7 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC AKUMHH Z MO16.48 ST 3.71 OM 4.24 f0    1 R  3.28 AL      WI 27.1 MW  4.9 3
+ SPEC AKUMHH Z T174358 K 0.040 GD232.6 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC NIDEHH Z MO16.91 ST 1.35 OM 4.67 f0      R  6.42 AL      WI 26.7 MW  5.2 3
+ SPEC NIDEHH Z T174357 K 0.040 GD234.2 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KESKHH Z MO16.39 ST22.80 OM 4.15 f0  1.4 R  1.68 AL      WI 26.7 MW  4.9 3
+ SPEC KESKHH Z T174357 K 0.040 GD234.7 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC GOLHHH Z MO16.56 ST 4.49 OM 4.31 f0    1 R  3.28 AL      WI 27.5 MW  5.0 3
+ SPEC GOLHHH Z T174358 K 0.040 GD236.4 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC PASAHH Z MO16.57 ST 4.59 OM 4.32 f0    1 R  3.28 AL      WI 27.1 MW  5.0 3
+ SPEC PASAHH Z T174358 K 0.040 GD236.4 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KIZKHH Z MO16.90 ST 9.78 OM 4.65 f0    1 R  3.28 AL      WI 29.2 MW  5.2 3
+ SPEC KIZKHH Z T174401 K 0.040 GD237.0 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC GULEHH Z MO17.00 ST12.26 OM 4.74 f0    1 R  3.28 AL      WI 28.3 MW  5.3 3
+ SPEC GULEHH Z T174359 K 0.040 GD243.3 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC AKPIHH Z MO16.20 ST14.53 OM 3.93 f0  1.4 R  1.68 AL      WI 27.8 MW  4.7 3
+ SPEC AKPIHH Z T174359 K 0.040 GD245.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KNIKHH Z MO16.85 ST 1.17 OM 4.57 f0      R  6.42 AL      WI 29.7 MW  5.2 3
+ SPEC KNIKHH Z T174401 K 0.040 GD251.9 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC MCURHH Z MO16.65 ST 5.47 OM 4.36 f0    1 R  3.28 AL      WI 29.0 MW  5.0 3
+ SPEC MCURHH Z T174400 K 0.040 GD255.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BYPZHH Z MO17.18 ST18.90 OM 4.90 f0    1 R  3.28 AL      WI 29.7 MW  5.4 3
+ SPEC BYPZHH Z T174401 K 0.040 GD257.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC DED HH Z MO16.73 ST 6.59 OM 4.44 f0    1 R  3.28 AL      WI 29.2 MW  5.1 3
+ SPEC DED HH Z T174401 K 0.040 GD257.7 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC UZP HH Z MO17.02 ST12.99 OM 4.73 f0    1 R  3.28 AL      WI 29.5 MW  5.3 3
+ SPEC UZP HH Z T174401 K 0.040 GD259.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC CAELHH Z MO16.71 ST 6.37 OM 4.42 f0    1 R  3.28 AL      WI 30.1 MW  5.1 3
+ SPEC CAELHH Z T174402 K 0.040 GD260.4 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC AVNSHH Z MO16.77 ST 7.31 OM 4.48 f0    1 R  3.28 AL      WI 29.2 MW  5.1 3
+ SPEC AVNSHH Z T174401 K 0.040 GD260.4 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC ANDZHH Z MO16.82 ST 8.12 OM 4.52 f0    1 R  3.28 AL      WI 30.1 MW  5.1 3
+ SPEC ANDZHH Z T174402 K 0.040 GD266.0 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC GDZ HH Z MO16.78 ST 7.50 OM 4.48 f0    1 R  3.28 AL      WI 30.5 MW  5.1 3
+ SPEC GDZ HH Z T174402 K 0.040 GD267.4 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC DNIZHH Z MO16.85 ST 8.72 OM 4.54 f0    1 R  3.28 AL      WI 30.5 MW  5.2 3
+ SPEC DNIZHH Z T174402 K 0.040 GD272.5 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC GOKDHH Z MO16.72 ST 6.47 OM 4.41 f0    1 R  3.28 AL      WI 30.1 MW  5.1 3
+ SPEC GOKDHH Z T174402 K 0.040 GD273.2 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC CDAGHH Z MO16.71 ST 6.42 OM 4.40 f0    1 R  3.28 AL      WI 31.6 MW  5.1 3
+ SPEC CDAGHH Z T174404 K 0.040 GD277.0 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC TAVAHH Z MO16.89 ST 1.27 OM 4.56 f0      R  6.42 AL      WI 31.6 MW  5.2 3
+ SPEC TAVAHH Z T174404 K 0.040 GD285.7 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC YAHYHH Z MO16.90 ST 1.30 OM 4.57 f0      R  6.42 AL      WI 31.5 MW  5.2 3
+ SPEC YAHYHH Z T174404 K 0.040 GD286.5 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC DELIHH Z MO16.24 ST16.14 OM 3.91 f0  1.4 R  1.68 AL      WI 30.7 MW  4.8 3
+ SPEC DELIHH Z T174403 K 0.040 GD286.5 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC USAKHH Z MO16.70 ST 6.25 OM 4.37 f0    1 R  3.28 AL      WI 32.1 MW  5.1 3
+ SPEC USAKHH Z T174404 K 0.040 GD287.4 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC AKASHH Z MO16.78 ST 7.40 OM 4.44 f0    1 R  3.28 AL      WI 34.3 MW  5.1 3
+ SPEC AKASHH Z T174407 K 0.040 GD287.4 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC KZCMHH Z MO17.06 ST14.31 OM 4.73 f0    1 R  3.28 AL      WI 33.3 MW  5.3 3
+ SPEC KZCMHH Z T174406 K 0.040 GD289.9 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC CAY HH Z MO17.15 ST17.51 OM 4.81 f0    1 R  3.28 AL      WI 33.9 MW  5.4 3
+ SPEC CAY HH Z T174407 K 0.040 GD293.3 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC CMDRHH Z MO17.74 ST 9.18 OM 5.40 f0      R  6.42 AL      WI 32.2 MW  5.8 3
+ SPEC CMDRHH Z T174405 K 0.040 GD295.0 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC CMDRHH Z MO16.91 ST10.08 OM 4.57 f0    1 R  3.28 AL      WI 32.0 MW  5.2 3
+ SPEC CMDRHH Z T174404 K 0.040 GD295.0 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC SUL HH Z MO16.77 ST 7.36 OM 4.43 f0    1 R  3.28 AL      WI 32.3 MW  5.1 3
+ SPEC SUL HH Z T174405 K 0.040 GD295.0 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC HAR HH Z MO17.14 ST 2.30 OM 4.80 f0      R  6.42 AL      WI 32.7 MW  5.4 3
+ SPEC HAR HH Z T174405 K 0.040 GD295.9 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC EMETHH Z MO17.05 ST13.82 OM 4.70 f0    1 R  3.28 AL      WI 32.7 MW  5.3 3
+ SPEC EMETHH Z T174405 K 0.040 GD295.9 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC AKO HH Z MO16.57 ST 4.63 OM 4.23 f0    1 R  3.28 AL      WI 33.0 MW  5.0 3
+ SPEC AKO HH Z T174406 K 0.040 GD296.7 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC DOMAHH Z MO17.09 ST15.28 OM 4.74 f0    1 R  3.28 AL      WI 34.0 MW  5.3 3
+ SPEC DOMAHH Z T174407 K 0.040 GD300.3 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC IZZEHH Z MO16.78 ST 7.48 OM 4.43 f0    1 R  3.28 AL      WI 34.7 MW  5.1 3
+ SPEC IZZEHH Z T174408 K 0.040 GD302.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC SABUHH Z MO16.70 ST 6.20 OM 4.35 f0    1 R  3.28 AL      WI 34.7 MW  5.1 3
+ SPEC SABUHH Z T174408 K 0.040 GD302.1 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC SIMVHH Z MO16.95 ST11.05 OM 4.59 f0    1 R  3.28 AL      WI 33.0 MW  5.2 3
+ SPEC SIMVHH Z T174406 K 0.040 GD303.0 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC SIRCHH Z MO16.60 ST 4.94 OM 4.23 f0    1 R  3.28 AL      WI 34.8 MW  5.0 3
+ SPEC SIRCHH Z T174408 K 0.040 GD310.6 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC YOZGHH Z MO16.67 ST 5.75 OM 4.29 f0    1 R  3.28 AL      WI 35.6 MW  5.0 3
+ SPEC YOZGHH Z T174409 K 0.040 GD315.5 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC SUNGHH Z MO16.74 ST 6.82 OM 4.36 f0    1 R  3.28 AL      WI 34.5 MW  5.1 3
+ SPEC SUNGHH Z T174408 K 0.040 GD318.5 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC ERENHH Z MO18.41 ST 5.74 OM 6.04 f0      R 12.55 AL      WI 36.6 MW  6.2 3
+ SPEC ERENHH Z T174411 K 0.040 GD318.5 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC GUNEHH Z MO16.88 ST 9.48 OM 4.50 f0    1 R  3.28 AL      WI 36.4 MW  5.2 3
+ SPEC GUNEHH Z T174410 K 0.040 GD327.9 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC BCAMHH Z MO16.66 ST 5.65 OM 4.27 f0    1 R  3.28 AL      WI 35.0 MW  5.0 3
+ SPEC BCAMHH Z T174408 K 0.040 GD328.9 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC YUREHH Z MO17.38 ST 3.94 OM 4.98 f0      R  6.42 AL      WI 37.0 MW  5.5 3
+ SPEC YUREHH Z T174411 K 0.040 GD332.2 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ SPEC SAIMHH Z MO16.81 ST 8.06 OM 4.40 f0    1 R  3.28 AL      WI 38.3 MW  5.1 3
+ SPEC SAIMHH Z T174413 K 0.040 GD348.4 VP 6.20 DE 3.00 Q0200.0 QA 0.60 VS      3
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ KONT HZ IP       1743 25.97                                           23.3  66 
+ KMER HZ IP       1743 25.51                                           24.4 115 
+ KMER HN IS       1743 29.11                                           24.4 115 
+ DOGA HZ IP       1743 29.51                                           47.7 305 
+ DOGA HE IS       1743 36.36                                           47.7 305 
+ SEDI HZ IP       1743 31.40                                           55.7 215 
+ SEDI HE IS       1743 37.39                                           55.7 215 
+ KDHN HZ IP       1743 34.19                                           73.3 360 
+ KDHN HN IS       1743 42.99                                           73.3 360 
+ ALIN HZ IP       1743 36.14                                           82.5  54 
+ YVAC HZ IP       1743 36.42                                           89.2 301 
+ KKBE HZ IP       1743 38.65                                          101.9 134 
+ UCKU HZ IP       1743 39.50                                          105.1 325 
+ UCKU HE IS       1743 52.58                                          105.1 325 
+ CBEY HZ IP       1743 40.19                                          108.9  32 
+ CBEY HN IS       1743 53.32                                          108.9  32 
+ KEPZ HZ IP       1743 41.05                                          116.0 203 
+ BAGO HZ IP       1743 41.50                                          117.3 277 
+ BAGO HE IS       1743 55.15                                          117.3 277 
+ CTIK HZ IP       1743 45.04                                          136.4 342 
+ CTIK HN IS       1744 01.32                                          136.4 342 
+ KURO HZ IP       1743 45.39                                          141.6 314 
+ KURO HE IS       1744 01.76                                          141.6 314 
+ BUCA HZ IP       1743 46.93                                          149.5 247 
+ ERMK HZ IP       1743 47.21                                          152.9 152 
+ ERMK HN IS       1744 06.51                                          152.9 152 
+ BYAT HZ IP       1743 48.01                                          155.9 321 
+ BYAT HN IS       1744 05.72                                          155.9 321 
+ AKSY HZ IP       1743 49.84                                          168.2  58 
+ KZIL HZ IP       1743 51.38                                          178.4 285 
+ GAZI HZ IP       1743 51.04                                          181.8 174 
+ 704  HZ IP       1743 51.33                                          181.8 174 
+ AUSIVHZ IP       1743 51.58                                          182.5 344 
+ AUSIVHN IS       1744 13.12                                          182.5 344 
+ KORT HZ IP       1743 52.24                                          183.0 239 
+ 707  HZ IP       1743 52.37                                          183.0 239 
+ KERG HZ IP       1743 50.81                                          183.7 105 
+ AFYO HZ IP       1743 53.15                                          189.0 304 
+ BSIR HZ IP       1743 53.10                                          195.6  76 
+ BBAL HZ IP       1743 54.64                                          206.3  25 
+ KIRS HZ IP       1743 55.78                                          211.0  47 
+ BNAZ HZ IP       1743 56.24                                          215.4 296 
+ SGAZ HZ IP       1743 55.49                                          216.0 330 
+ INCE HZ IP       1743 57.09                                          224.0 266 
+ GULN HZ IP       1743 56.81                                          225.5 145 
+ AKUM HZ IP       1743 58.19                                          232.4 223 
+ NIDE HZ IP       1743 57.61                                          233.8  85 
+ KESK HZ IP       1743 57.55                                          234.5  32 
+ GOLH HZ IP       1743 58.63                                          235.9 254 
+ PASA HZ IP       1743 58.18                                          236.3 284 
+ KIZK HZ IP       1744 01.03                                          236.3 130 
+ GULE HZ IP       1743 59.83                                          243.1 105 
+ AKPI HZ IP       1743 59.15                                          244.9  41 
+ KNIK HZ IP       1744 01.66                                          251.6 244 
+ KNIK HE IS       1744 30.97                                          251.6 244 
+ MCUR HZ IP       1744 00.80                                          254.8  55 
+ BYPZ HZ IP       1744 01.65                                          256.8 357 
+ DED  HZ IP       1744 01.09                                          257.2 112 
+ UZP  HZ IP       1744 01.38                                          258.6 275 
+ CAEL HZ IP       1744 02.19                                          260.0 252 
+ AVNS HZ IP       1744 01.03                                          260.3  65 
+ ANDZ HZ IP       1744 02.19                                          265.7 314 
+ GDZ  HZ IP       1744 02.73                                          266.8 302 
+ DNIZ HZ IP       1744 02.81                                          271.9 265 
+ GOKD HZ IP       1744 02.19                                          272.5  25 
+ CDAG HZ IP       1744 04.36                                          276.8  44 
+ TAVA HZ IP       1744 04.27                                          285.4 262 
+ YAHY HZ IP       1744 04.23                                          285.7  84 
+ USAK HZ IP       1744 04.93                                          286.5 290 
+ AKAS HZ IP       1744 07.97                                          287.2 232 
+ AKAS HE IS       1744 41.67                                          287.2 232 
+ KZCM HZ IP       1744 06.65                                          289.7   9 
+ CAY  HZ IP       1744 07.49                                          292.6 104 
+ CMDR HZ IP       1744 04.80                                          294.3   6 
+ CMDR HZ IP       1744 05.06                                          294.3   6 
+ SUL  HZ IP       1744 05.32                                          294.4 275 
+ HAR  HZ IP       1744 05.85                                          295.1 281 
+ EMET HZ IP       1744 05.85                                          295.5 306 
+ AKO  HZ IP       1744 06.27                                          296.4  98 
+ DOMA HZ IP       1744 07.57                                          299.6 316 
+ IZZE HZ IP       1744 08.50                                          301.2 239 
+ SABU HZ IP       1744 08.50                                          301.3 248 
+ SIMV HZ IP       1744 06.25                                          302.7 298 
+ SIRC HZ IP       1744 08.63                                          310.3  57 
+ YOZG HZ IP       1744 09.82                                          315.2  47 
+ SUNG HZ IP       1744 08.23                                          317.5  35 
+ EREN HZ IP       1744 11.14                                          317.7 144 
+ GUNE HZ IP       1744 10.88                                          326.9  68 
+ BCAM HZ IP       1744 08.89                                          328.5 359 
+ YURE HZ IP       1744 11.67                                          331.4 109 
+ SAIM HZ IP       1744 13.52                                          348.1  87 
+ KMER HN  IAML    1743 29.00     515229   0.3                          24.4
+ KMER HE  IAML    1743 31.00     432315   0.6                          24.4
+ DOGA HE  IAML    1743 37.00     158445   0.5                          47.7
+ DOGA HN  IAML    1743 37.00     103349   0.4                          47.7
+ SEDI HE  IAML    1743 39.00      83113   0.4                          55.7
+ KDHN HN  IAML    1743 45.00      25569   0.6                          73.3
+ KDHN HE  IAML    1743 46.00      70944   0.5                          73.3
+ UCKU HE  IAML    1743 54.00      22572   0.9                         105.1
+ UCKU HN  IAML    1743 58.00      47251   0.5                         105.1
+ CBEY HN  IAML    1743 55.00      66781   0.3                         108.9
+ BAGO HN  IAML    1744 02.00      18934   0.5                         117.3
+ BAGO HE  IAML    1743 59.00     4454.6   0.3                         117.3
+ CTIK HN  IAML    1744 02.00      61407   0.6                         136.4
+ CTIK HE  IAML    1744 06.00      84416   0.4                         136.4
+ KURO HE  IAML    1744 06.00      18025   1.8                         141.6
+ KURO HN  IAML    1744 11.00      12819   1.3                         141.6
+ ERMK HN  IAML    1744 09.00      48310   0.9                         152.9
+ ERMK HE  IAML    1744 10.00      43984   0.7                         152.9
+ BYAT HN  IAML    1744 13.00      44400   0.9                         155.9
+ BYAT HE  IAML    1744 19.00      37629   0.6                         155.9
+ AUSIVHN  IAML    1744 17.00     3353.4   0.4                         182.5
+ AUSIVHE  IAML    1744 20.00      10359   0.9                         182.5
+ SGAZ HN  IAML    1744 21.00       7785   0.6                         216.0
+ SGAZ HE  IAML    1744 31.00      13085   1.2                         216.0
+ GULN HE  IAML    1744 29.00     7977.7   0.5                         225.5
+ KNIK HE  IAML    1744 43.00     1297.5   0.6                         251.6
+ KNIK HN  IAML    1744 47.00       2294   1.1                         251.6
+ GOKD HN  IAML    1744 35.00     4851.9   0.3                         272.5
+ GOKD HE  IAML    1744 51.00     5417.6   1.5                         272.5
+ KIBS HN  IAML    1744 49.00      10566   0.7                         285.3
+ KIBS HE  IAML    1744 50.00      13551   0.7                         285.3
+ AKAS HE  IAML    1744 47.00     5940.6   1.1                         287.2
+ AKAS HN  IAML    1744 47.00     6862.6   1.1                         287.2
+ CAY  HN  IAML    1744 56.00      12476   2.9                         292.6
+ CAY  HE  IAML    1744 59.00     9648.1   1.9                         292.6
+ 
+

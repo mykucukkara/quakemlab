@@ -9,13 +9,15 @@ env/
 .pytest_cache/
 
 # Data / large artifacts (not redistributed — see README)
-events/
-*.mseed
+# NOTE: scoped to repo root so the bundled data/sample/ stays tracked
+/events/
 *.npy
 *.npz
 *.sac
 *.csv.gz
-# keep the small bundled sample and documented result tables
+*.mseed
+# keep the small bundled sample (events + bulletin) tracked despite the rules above
+!data/sample/
 !data/sample/**
 
 # Secrets / credentials (never commit)
