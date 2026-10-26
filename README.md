@@ -1,5 +1,8 @@
 # QuakeMLab
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23668783.svg)](https://doi.org/10.5281/zenodo.23668783)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 **A model-agnostic deep-learning workflow for automated seismic phase picking,
 earthquake location and catalogue verification in Türkiye.**
 
@@ -106,7 +109,8 @@ If you use QuakeMLab, please cite:
 > seismic phase picking, earthquake location and catalogue verification in
 > Türkiye.* (software report, submitted).
 
-See [`CITATION.cff`](CITATION.cff). Archived release: _Zenodo DOI to be added._
+See [`CITATION.cff`](CITATION.cff). Archived release:
+[https://doi.org/10.5281/zenodo.23668783](https://doi.org/10.5281/zenodo.23668783).
 
 ## Open-source components
 

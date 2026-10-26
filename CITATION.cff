@@ -23,8 +23,15 @@ authors:
     given-names: Murat
     affiliation: "Sakarya University"
 license: MIT
+version: "1.0.0"
+date-released: "2026-10-26"
+doi: "10.5281/zenodo.23668783"
 repository-code: "https://github.com/mykucukkara/quakemlab"
 url: "https://quakemlab.sakarya.edu.tr"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23668783"
+    description: "Concept DOI (all versions)"
 keywords:
   - seismology
   - deep learning
