@@ -1,0 +1,74 @@
+# =====================================================================
+# Bölge tanımı — Güney Ege (örnek bölge)
+# Yeni bir bölge eklemek = bu dosyanın bir kopyasını `regions/<ad>.yaml` olarak
+# oluşturup değerleri doldurmak + worker'ı BOLGE=<ad> ile çalıştırmak. Kod değişmez.
+# Tüm veri kaynakları PUBLIC (GEOFON/IRIS/INGV/NOA) — bu yüzden bu bölge referans örnektir.
+# =====================================================================
+name: ege
+display_name:
+  tr: "Güney Ege"
+  en: "SE Aegean"
+
+# Kataloğun GCS'te yazılacağı ön ek (her bölge kendi klasörünü yazar).
+events_dir: live_events
+
+# PyOcto km-Kartezyen düzlemde çalışır; istasyonlar bu UTM zonuna yansıtılır.
+utm_zone: 36
+pad_km: 50.0          # arama kutusu istasyon zarfına eklenen kenar payı (km)
+
+# 1B hız modeli (projenin kendi modeli: Helen yayı, derin 0–210 km).
+velocity_model:
+  depth: [0.0, 20.0, 35.0, 77.5, 120.0, 165.0, 210.0]
+  vp:    [5.80, 6.50, 8.04, 8.04, 8.05, 8.17, 8.30]
+  vs:    [3.31, 3.71, 4.48, 4.48, 4.50, 4.51, 4.52]
+zlim: [0.0, 200.0]    # derinlik arama aralığı (km)
+model_xdist: 800.0    # hız modeli tablosu yatay menzili (km)
+model_zdist: 300.0    # hız modeli tablosu düşey menzili (km)
+
+# İstasyonlar. sl: [host, port] gerçek-zamanlı SeedLink; sl yoksa yalnız-FDSN (~5 dk gecikmeli).
+# fdsn: SeedLink koparsa yedek dataselect sağlayıcısı (FDSN_PROVIDERS içinde tanımlı).
+stations:
+  - {net: GE, sta: KTHA, sl: [geofon.gfz.de, 18000],               fdsn: GEOFON}
+  - {net: GE, sta: APE,  sl: [geofon.gfz.de, 18000],               fdsn: GEOFON}
+  - {net: GE, sta: KARP, sl: [geofon.gfz.de, 18000],               fdsn: GEOFON}
+  - {net: HL, sta: ARG,  sl: [rtserve.iris.washington.edu, 18000], fdsn: IRIS}
+  - {net: MN, sta: IDI,  sl: [geofon.gfz.de, 18000],               fdsn: INGV}
+  # Yalnız-FDSN istasyonları (SeedLink halka kapalı, dataselect ~5 dk gecikmeli):
+  - {net: HL, sta: AMGA, sl: null, fdsn: NOA,    fdsn_window: 600}
+  - {net: HL, sta: ASTA, sl: null, fdsn: NOA,    fdsn_window: 600}
+  - {net: HL, sta: NISR, sl: null, fdsn: NOA,    fdsn_window: 600}
+  - {net: GE, sta: ZKR,  sl: null, fdsn: GEOFON, fdsn_window: 600}
+
+# İstasyon koordinatları (derece). x = boylam, y = enlem.
+station_coords:
+  KTHA: {x: 23.0621, y: 36.2566}
+  APE:  {x: 25.5306, y: 37.0689}
+  ARG:  {x: 28.1212, y: 36.2135}
+  KARP: {x: 27.1610, y: 35.5471}
+  IDI:  {x: 24.8900, y: 35.2880}
+  AMGA: {x: 25.8938, y: 36.8316}
+  ASTA: {x: 26.3529, y: 36.5455}
+  NISR: {x: 27.1310, y: 36.6106}
+  ZKR:  {x: 26.2170, y: 35.1147}
+
+# ML/Mw için cihaz yanıtı kaynağı.
+#   fdsn  -> yanıtlar FDSN station servisinden çekilir (aşağıdaki gruplar)
+#   local -> data/station_xml/<bolge>/*.xml (açık FDSN'i olmayan ağlar için)
+response:
+  source: fdsn
+  fdsn_groups:
+    - {provider: GEOFON, net: GE, stations: "KTHA,APE,KARP,ZKR"}
+    - {provider: NOA,    net: HL, stations: "AMGA,ASTA,NISR"}
+    - {provider: IRIS,   net: HL, stations: "ARG"}
+    - {provider: INGV,   net: MN, stations: "IDI"}
+
+# Tespit/kalite eşikleri (env değişkeni verilirse env kazanır).
+thresholds:
+  pick_threshold: 0.65        # P olasılık eşiği (seyrek ağda bölgesel tespit)
+  s_pick_threshold: 0.45
+  min_p_stations: 3
+  min_s_picks: 1
+  snr_min: 4.0                # pick SNR kapısı (gürültüyü ele)
+  min_clean_p_stations: 2
+  mw_min_ml: 3.0              # spektral Mw yalnız ML >= bu değerde denenir
+  delay_offset_sec: 300       # yalnız-FDSN istasyonların gecikme telafisi

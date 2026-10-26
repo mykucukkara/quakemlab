@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "quakemlab-live"
+version = "0.1.0"
+description = "QuakeMLab — bölge-parametrik gerçek zamanlı sismik tespit boru hattı (SeedLink → PhaseNet → PyOcto → HypoInverse → ML/Mw → katalog → bildirim)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "QuakeMLab — Sakarya Üniversitesi (TÜBİTAK 1001, 124E294)" }]
+
+# NOT: seisbench torch'u (CPU) çeker; sourcespec (spektral Mw) git'ten kurulur çünkü
+# PyPI sürümü matplotlib>=3.9 ile çakışıyor. numpy<2 obspy/numba uyumu için.
+# Bu set çalışan worker imajıyla eşleşir; tam sürüm pinleme önerilen bir sonraki adımdır
+# (viewer requirements zaten pinli — bkz. services/viewer/requirements.txt).
+dependencies = [
+    "seisbench",
+    "pyocto",
+    "pyrocko",
+    "obspy",
+    "numpy<2",
+    "pandas",
+    "pyproj",
+    "pyyaml",
+    "google-cloud-storage",
+    "python-dotenv",
+    "requests",
+    "requests-oauthlib",
+    "geopy",
+    "sourcespec @ git+https://github.com/SeismicSource/sourcespec.git",
+]
+
+[project.optional-dependencies]
+# Worker'ı Cloud Run'da çalıştıran HTTP sarmalayıcısı için.
+service = ["fastapi", "uvicorn"]
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
