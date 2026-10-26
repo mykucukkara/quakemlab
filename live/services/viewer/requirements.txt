@@ -1,0 +1,15 @@
+# Sürümler 23 Eyl 2026'da çalışan build'e (0cc8977f) sabitlendi. Pinsiz bırakınca bir --source
+# rebuild plotly'yi 6.x'e yükseltip Scattermapbox'ı kaldırmış ve katalog sayfasını kırmıştı.
+# Yükseltme yaparken hepsini birlikte test edip güncelleyin.
+streamlit==1.50.0
+pandas==2.3.3
+numpy==2.0.2
+scipy==1.13.1
+obspy==1.5.1
+plotly==5.24.1
+openpyxl==3.1.5
+google-cloud-storage==3.9.0
+gcsfs==2025.10.0
+geopy==2.5.0
+numba==0.60.0
+requests==2.32.5

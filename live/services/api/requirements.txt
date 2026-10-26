@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+# NOT: pyocto 0.1.10+ Python>=3.10 istiyor; deployed runtime Python 3.9 olduğundan
+# py3.9 ile uyumlu en yüksek sürüm 0.1.9'a pinliyoruz (offline'daki 0.1.10 ile
+# association çekirdeği aynı; düzeltmeler konfigürasyon seviyesinde, sürümden bağımsız).
+pyocto==0.1.9
+pyrocko
+pyproj
+google-cloud-storage
+requests
